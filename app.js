@@ -1,13 +1,10 @@
-var createError = require('http-errors')
-var express = require('express')
-var path = require('path')
-var cookieParser = require('cookie-parser')
-var logger = require('morgan')
+const createError = require('http-errors')
+const express = require('express')
+const path = require('path')
+const cookieParser = require('cookie-parser')
+const logger = require('morgan')
 
-var indexRouter = require('./routes/index')
-var cartRouter = require('./routes/cart')
-
-var app = express()
+const app = express()
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'))
@@ -33,9 +30,23 @@ app.all('*', function (req, res, next) {
   next()
 })
 
+const indexRouter = require('./routes/index')
 app.use('/', indexRouter)
 
-app.use('/mock/bouwmaat/cart', cartRouter)
+// set CURRENT_PROJECT
+const CURRENT_PROJECT = 'bouwmaat'
+
+if (CURRENT_PROJECT === 'bouwmaat') {
+  // bouwmaat
+  const bouwmaatRouters = {
+    cartRouter: require('./routes/bouwmmat/cart'),
+  }
+  app.use('/mock/bouwmaat/cart', bouwmaatRouters.cartRouter)
+} else if (CURRENT_PROJECT === 'parfuma') {
+  // todo
+} else {
+  // todo
+}
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
