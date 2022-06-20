@@ -1,0 +1,423 @@
+{
+  "DefaultDate": "2022-06-23T00:00:00.0000000+00:00",
+  "Dates": [
+    "2022-06-23T00:00:00.0000000+00:00",
+    "2022-06-24T00:00:00.0000000+00:00",
+    "2022-06-25T00:00:00.0000000+00:00",
+    "2022-06-27T00:00:00.0000000+00:00",
+    "2022-06-28T00:00:00.0000000+00:00",
+    "2022-06-29T00:00:00.0000000+00:00",
+    "2022-06-30T00:00:00.0000000+00:00",
+    "2022-07-01T00:00:00.0000000+00:00",
+    "2022-07-02T00:00:00.0000000+00:00",
+    "2022-07-04T00:00:00.0000000+00:00"
+  ],
+  "OverrideCurrentTime": "0001-01-01T00:00:00.0000000",
+  "DatesWithTimeSlots": [
+    {
+      "Date": "2022-06-23T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Thursday"
+    },
+    {
+      "Date": "2022-06-24T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Friday"
+    },
+    {
+      "Date": "2022-06-25T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Saturday"
+    },
+    {
+      "Date": "2022-06-27T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Monday"
+    },
+    {
+      "Date": "2022-06-28T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Tuesday"
+    },
+    {
+      "Date": "2022-06-29T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Wednesday"
+    },
+    {
+      "Date": "2022-06-30T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Thursday"
+    },
+    {
+      "Date": "2022-07-01T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Friday"
+    },
+    {
+      "Date": "2022-07-02T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Saturday"
+    },
+    {
+      "Date": "2022-07-04T00:00:00.0000000+00:00",
+      "TimeSlots": [
+        {
+          "Value": "08:00-09:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "09:00-10:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "10:00-11:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "11:00-12:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "12:00-13:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "13:00-14:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "14:00-15:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "15:00-16:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "16:00-17:00",
+          "DisabledNextDay": false
+        },
+        {
+          "Value": "17:00-18:00",
+          "DisabledNextDay": false
+        }
+      ],
+      "DayName": "Monday"
+    }
+  ],
+  "IsSaturdayWorkingDay": true
+}
