@@ -6,7 +6,6 @@ var logger = require('morgan')
 
 var indexRouter = require('./routes/index')
 var cartRouter = require('./routes/cart')
-var jobsRouter = require('./routes/jobs')
 
 var app = express()
 
@@ -36,7 +35,6 @@ app.all('*', function (req, res, next) {
 
 app.use('/', indexRouter)
 
-app.use('/mock/jobs', jobsRouter)
 app.use('/mock/bouwmaat/cart', cartRouter)
 
 // catch 404 and forward to error handler
