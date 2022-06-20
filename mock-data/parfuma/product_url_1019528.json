@@ -1,0 +1,248 @@
+{
+  "Success": true,
+  "WebNode": {
+    "Id": 135,
+    "Code": "COMFORT ZONE",
+    "HasProducts": true,
+    "BigImageLink": "https://imagestoreretrieval.aspos.nl/WebNode/Big/190520/fa8b01cd-a797-49ac-aa9f-deb58f06deca.jpg",
+    "SmallImageLink": "https://imagestoreretrieval.aspos.nl/WebNode/Small/190520/276d2112-e60e-4521-a11b-5eaf568e6695.png",
+    "SeoTitle": "Comfort Zone ",
+    "Description": "COMFORT ZONE",
+    "SortOrder": 28,
+    "Url": "merken/comfort-zone",
+    "Ancestors": [
+      {
+        "Id": 27,
+        "Code": "1",
+        "HasProducts": false,
+        "BigImageLink": "",
+        "SmallImageLink": "",
+        "SeoTitle": "Merken",
+        "Description": "Merken",
+        "SortOrder": 4,
+        "Url": "merken",
+        "Children": []
+      }
+    ],
+    "Children": []
+  },
+  "HasWebnode": true,
+  "Product": {
+    "Id": 19528,
+    "State": "Active",
+    "Type": "Product",
+    "Number": "0001019528",
+    "Description": "COMFORT ZONE TRANQUILITY SHOWER CREAM 200 ML",
+    "SecondDescription": "",
+    "OnlineDescription": "Tranquillity Douche Crème 200ml",
+    "PriceInclTax": 30.9,
+    "PriceExclTax": 25.5372,
+    "ListPrice": 30.9,
+    "SizeCode": "200 ML",
+    "SizeDescription": "200 ML",
+    "Location": "0",
+    "Content": 200.0,
+    "ContentType": "ML",
+    "BonusPoints": 0,
+    "BonusPointsAllowed": true,
+    "BrandId": 12,
+    "GroupId": 15,
+    "SubGroupId": 136,
+    "HasActiveWebNodes": true,
+    "DefaultScanCodeId": 627298,
+    "TaxRate": 21.0,
+    "PreferredProductSupplierId": 19344,
+    "PurchasePrice": 14.78,
+    "PurchaseUnit": "Stuk",
+    "PurchaseUnitFactor": 1.0,
+    "DiscountAllowed": true,
+    "StoreId": 1,
+    "PriceType": "Standaard",
+    "SalesUnit": "Stuk",
+    "SerialUsage": "None",
+    "DefaultOrderQuantity": 1.0,
+    "AttentionMemo": "",
+    "IsValidated": true,
+    "BestBeforeProduct": false,
+    "TaxCodeId": 3,
+    "Margin": 0.0,
+    "ActiveWebNodes": [
+      {
+        "Id": 135,
+        "Description": "COMFORT ZONE"
+      },
+      {
+        "Id": 371,
+        "Description": "Douche Gel"
+      },
+      {
+        "Id": 1031,
+        "Description": "Clean Lichaam & Haar"
+      }
+    ],
+    "Brand": {
+      "Id": 12,
+      "Code": "21Z",
+      "Description": "COMFORT ZONE",
+      "Images": [
+        {
+          "Id": 68,
+          "RelatedId": 12,
+          "Type": "Front",
+          "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/6e8e0fcf-876d-4e51-a6a9-d9218836d163.png"
+        }
+      ]
+    },
+    "DefaultScanCode": {
+      "Id": 627298,
+      "Code": "8004608506034",
+      "Quantity": 1.0
+    },
+    "Discounts": [],
+    "Fields": [
+      {
+        "Code": "ParkodProdCode",
+        "Description": "ParkodProdCode",
+        "Value": "P21Z73120"
+      },
+      {
+        "Code": "ModelID",
+        "Description": "ModelID",
+        "Value": "TRANQUILITY"
+      },
+      {
+        "Code": "Groepcode",
+        "Description": "Groepcode",
+        "Value": "02"
+      },
+      {
+        "Code": "Groepnaam",
+        "Description": "Groepnaam",
+        "Value": "BEAUTY"
+      },
+      {
+        "Code": "UnitMeasure",
+        "Description": "UnitMeasure",
+        "Value": "Milliliter"
+      },
+      {
+        "Code": "ExternalProdCode",
+        "Description": "Productcode",
+        "Value": "88007"
+      },
+      {
+        "Code": "ExternalSKU",
+        "Description": "SKU",
+        "Value": "21Z.73.120.44"
+      },
+      {
+        "Code": "ExternalType",
+        "Description": "ExternalType",
+        "Value": "simple"
+      },
+      {
+        "Code": "ExternalStatusTask",
+        "Description": "Status Task",
+        "Value": "1"
+      },
+      {
+        "Code": "ExternalLine",
+        "Description": "Collectie",
+        "Value": "Tranquillity"
+      },
+      {
+        "Code": "ExternalExclusive",
+        "Description": "Exclusive",
+        "Value": "0"
+      },
+      {
+        "Code": "ExternalLimitedEdition",
+        "Description": "Limited Edition",
+        "Value": "0"
+      },
+      {
+        "Code": "ExternalEAN",
+        "Description": "EAN",
+        "Value": "8004698179415"
+      },
+      {
+        "Code": "ExternalMPH",
+        "Description": "MPH",
+        "Value": "10982"
+      },
+      {
+        "Code": "ExternalReturnProduct",
+        "Description": "Return Product",
+        "Value": "0"
+      },
+      {
+        "Code": "ExternalImageLink",
+        "Description": "ImageLink",
+        "Value": "/c/o/comfort-zone-tranquillity-shower-cream-200ml.jpg"
+      },
+      {
+        "Code": "webshopbanner",
+        "Description": "webshopbanner",
+        "Value": "CleanBeautyLabel"
+      },
+      {
+        "Code": "ExternalContent",
+        "Description": "Inhoud",
+        "Value": "200 ml"
+      }
+    ],
+    "Group": {},
+    "Images": [
+      {
+        "Id": 2903,
+        "RelatedId": 19528,
+        "Type": "Front",
+        "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/628eb57e-39b1-4c0d-9b6c-0b3a0b5bcc47.jpg"
+      },
+      {
+        "Id": 20765,
+        "RelatedId": 19528,
+        "Type": "Image_2",
+        "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/83aa16fb-70f9-4920-8191-35b5f3a37299.jpg"
+      },
+      {
+        "Id": 20766,
+        "RelatedId": 19528,
+        "Type": "Image_3",
+        "Url": "https://testimageretrieval.aspos.nl/Product/Image_3/190520/d3446f52-911d-4db7-bea8-7e65db39de6f.jpg"
+      }
+    ],
+    "Kits": [],
+    "Memos": [
+      {
+        "MemoType": "InternetMemo",
+        "Text": "Een Douche Cr&egrave;me met opvallend hdraterende eigenschappen. Maakt de huid zijdezacht en aangenaam geurend.  De cr&egrave;mige textuur met verzachtend effect reinigt zelfs de meest gevoelige huid, dankzij de voedende amarantolie. De exclusieve blend verlicht stress en spanning door de kalmerende aromatische noten en brengt lichaam en geest weer in balans. Voor ieder huidtpe. In het bijzonder aanbevolen aan het einde van de dag als milde reiniging die kalmeert en stress verlicht."
+      },
+      {
+        "MemoType": "Composition",
+        "Text": "Aqua / Water / Eau, Sodium Lauroyl Methyl Isethionate, Cocamido¬Propyl Betaine, Glycol Distearate, Glycerin, Decyl Glucoside, Sodium Lauryl Sulfoacetate, Coco-Glucoside, Sodium Cocoyl Glycinate, Glyceryl Oleate, Parfum / Fragrance, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Methyl 2-Sulfolaurate, Sodium Chloride, Benzyl Alcohol, Limonene, Sodium Benzoate, Tetraso¬Dium Glutamate Diacetate, Glyceryl Stearate, Trisodium Ethylenediamine Disuccinate, Diso¬Dium 2-Sulfolaurate, Citric Acid, Mica, Guar Hydroxypropyltrimonium Chloride, Tocopherol, Amaranthus Caudatus Seed Extract, Juniperus Virginiana Oil, Geraniol, Benzyl Benzoate, Benzyl Salicylate, Titanium Dioxide, Sodium Hydroxide, Coumarin, Linalool, Benzoic Acid, Hydroxyci¬Tronellal, Citrus Aurantium Dulcis Oil / Citrus Aurantium Dulcis (Orange) Oil, Pelargonium Graveolens Oil, Vetiveria Zizanoides Root Oil, Santalum Album Oil / Santalum Album (San¬Dalwood) Oil, Hydrogenated Palm Glycerides Citrate, Rosa Damascena Flower Oil, Lecithin, Ascorbyl Palmitate."
+      }
+    ],
+    "PreferredProductSupplier": {
+      "SupplierProductCode": "12127",
+      "Supplier": {
+        "Id": 12,
+        "City": "DEVENTER",
+        "Code": "00011",
+        "CompanyName": "COMFORT ZONE 21 dagen",
+        "CountryCode": "NL",
+        "DebtorCode": "CC58504",
+        "Email": "Diana : info@inoutbeauty.be",
+        "HouseNumber": "67-69",
+        "HouseNumberExtension": "",
+        "PostalCode": "7411EH",
+        "Street": "BOREELPLEIN",
+        "Website": ""
+      }
+    },
+    "StockInfo": []
+  },
+  "ExtraFields": {
+    "Rating": 0
+  }
+}

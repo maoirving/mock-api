@@ -5,7 +5,7 @@ const router = express.Router()
 router.get('/json', async function (req, res, next) {
   setTimeout(() => {
     res.json(require('../../mock-data/common/google_geocode_1432AT.json'))
-  }, 1000)
+  }, 0)
 })
 
 module.exports = router

@@ -9,14 +9,14 @@ router.get('/main/root', async function (req, res, next) {
   }
   setTimeout(() => {
     res.json(result)
-  }, 1000)
+  }, 0)
 })
 
 // get product connections by productId
 router.get('/:id/connections', async function (req, res, next) {
   setTimeout(() => {
     res.json(require('../../mock-data/parfuma/product_connections.json'))
-  }, 1000)
+  }, 0)
 })
 
 module.exports = router

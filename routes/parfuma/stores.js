@@ -5,7 +5,7 @@ const router = express.Router()
 router.get('/', async function (req, res, next) {
   setTimeout(() => {
     res.json(require('../../mock-data/parfuma/stores.json'))
-  }, 1000)
+  }, 0)
 })
 
 module.exports = router
