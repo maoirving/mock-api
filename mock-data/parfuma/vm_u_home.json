@@ -1,0 +1,337 @@
+{
+  "Success": true,
+  "Article": {
+    "ID": "364fcad4270746ec80aa0968c4e236a0",
+    "Current": false,
+    "Version": 0,
+    "PublicationStartDate": "0001-01-01T00:00:00.0000000",
+    "PublicationEndDate": "0001-01-01T00:00:00.0000000",
+    "Name": "home",
+    "Type": "00000000000000000000000000000000",
+    "Url": "home",
+    "PathUrl": "",
+    "Title": "Home",
+    "Heading": "",
+    "ContactID": "00000000000000000000000000000000",
+    "Summary": "<h1><br></h1>",
+    "Description": "",
+    "Keywords": "",
+    "Tags": "",
+    "LinkTitle": "",
+    "HideLink": false,
+    "AlternateUrl": "",
+    "HideFromRobots": false,
+    "HideFromCache": false,
+    "HideFromSummary": false,
+    "DontFollowLinks": false,
+    "IsHidden": false,
+    "IsHomePage": true,
+    "IsOrganicLandingPage": false,
+    "IsPPCLandingPage": false,
+    "PublicationDate": "0001-01-01T00:00:00.0000000",
+    "RemovalDate": "0001-01-01T00:00:00.0000000",
+    "ModificationDate": "0001-01-01T00:00:00.0000000",
+    "Layout": "",
+    "Theme": "",
+    "CssClass": "",
+    "TemplateUrl": "~/home-acties.aspx",
+    "UseBlocks": false,
+    "CustomWidget1": false,
+    "CustomWidget2": false,
+    "CustomWidget3": false,
+    "CustomWidget4": false,
+    "CustomWidget5": false,
+    "Images": [],
+    "Banners": [],
+    "BannerCategories": [],
+    "MainMenu": [
+      {
+        "ID": "8d8ed614013c4f18ab447fe7fad09195",
+        "Name": "merken",
+        "Title": "Merken",
+        "LinkTitle": "Merken",
+        "Url": "merken",
+        "PathUrl": "",
+        "AlternateUrl": "/merken",
+        "Leaf": true,
+        "SortIndex": 0,
+        "Children": [
+          {
+            "ID": "20cd5e132411478fb5727d3d9b950efc",
+            "Name": "sikkens-link",
+            "Title": "Sikkens Link",
+            "LinkTitle": "Sikkens",
+            "Url": "sikkens-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/sikkens",
+            "Leaf": true,
+            "SortIndex": 0,
+            "Children": []
+          },
+          {
+            "ID": "2312a0b1846045198fd8efb30f281bc7",
+            "Name": "flexa-link",
+            "Title": "Flexa link",
+            "LinkTitle": "Flexa",
+            "Url": "flexa-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/flexa",
+            "Leaf": true,
+            "SortIndex": 1,
+            "Children": []
+          },
+          {
+            "ID": "39feafa348e441069b93e2245c076862",
+            "Name": "histor-link",
+            "Title": "Histor Link",
+            "LinkTitle": "Histor",
+            "Url": "histor-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/histor",
+            "Leaf": true,
+            "SortIndex": 2,
+            "Children": []
+          },
+          {
+            "ID": "b3e0002a8fb24ef5aff4e671fa940a8d",
+            "Name": "hammerite-link",
+            "Title": "Hammerite link",
+            "LinkTitle": "Hammerite",
+            "Url": "hammerite-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/hammerite",
+            "Leaf": true,
+            "SortIndex": 3,
+            "Children": []
+          },
+          {
+            "ID": "c26fc99e0a93490c81e76b3121130d5b",
+            "Name": "fitex-link",
+            "Title": "Fitex link",
+            "LinkTitle": "Fitex",
+            "Url": "fitex-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/fitex",
+            "Leaf": true,
+            "SortIndex": 4,
+            "Children": []
+          },
+          {
+            "ID": "14ec314ea3764e5daca3a00400d3e05b",
+            "Name": "drenth-link",
+            "Title": "Drenth link",
+            "LinkTitle": "Drenth verf",
+            "Url": "drenth-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/drenth",
+            "Leaf": true,
+            "SortIndex": 5,
+            "Children": []
+          },
+          {
+            "ID": "9f7531c2d98e4934b9ef4a95af09206c",
+            "Name": "rambo-link",
+            "Title": "Rambo link",
+            "LinkTitle": "Rambo",
+            "Url": "rambo-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/rambo",
+            "Leaf": true,
+            "SortIndex": 6,
+            "Children": []
+          },
+          {
+            "ID": "bda36b1b88e942f8818c35e1fe9533dc",
+            "Name": "cetabever-link",
+            "Title": "CetaBever link",
+            "LinkTitle": "CetaBever",
+            "Url": "cetabever-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/cetabever",
+            "Leaf": true,
+            "SortIndex": 7,
+            "Children": []
+          },
+          {
+            "ID": "7244f8be90ab4e4d9e44dc1c0ad8a12a",
+            "Name": "alabastine-link",
+            "Title": "Alabastine link",
+            "LinkTitle": "Alabastine",
+            "Url": "alabastine-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/alabastine",
+            "Leaf": true,
+            "SortIndex": 8,
+            "Children": []
+          },
+          {
+            "ID": "cb91207f085748409c0f072189dc874e",
+            "Name": "den-braven-link",
+            "Title": "Den Braven link",
+            "LinkTitle": "Den Braven",
+            "Url": "den-braven-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/denbraven",
+            "Leaf": true,
+            "SortIndex": 9,
+            "Children": []
+          },
+          {
+            "ID": "816411f8d2c34638a036e6b197c7e58d",
+            "Name": "avis-link",
+            "Title": "Avis link",
+            "LinkTitle": "Avis",
+            "Url": "avis-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merk/avis",
+            "Leaf": true,
+            "SortIndex": 10,
+            "Children": []
+          },
+          {
+            "ID": "631f98218fdf4d8da4082d901f5df3bb",
+            "Name": "bekijk-alle-merken-link",
+            "Title": "Bekijk alle merken link",
+            "LinkTitle": "Bekijk alle merken",
+            "Url": "bekijk-alle-merken-link",
+            "PathUrl": "",
+            "AlternateUrl": "/merken",
+            "Leaf": true,
+            "SortIndex": 11,
+            "Children": []
+          }
+        ]
+      },
+      {
+        "ID": "1bbab3e17f5743d5acc72b4d17f261bb",
+        "Name": "winkels",
+        "Title": "Winkels",
+        "LinkTitle": "Winkels",
+        "Url": "winkels",
+        "PathUrl": "",
+        "AlternateUrl": "/winkels",
+        "Leaf": true,
+        "SortIndex": 1,
+        "Children": []
+      },
+      {
+        "ID": "f36e7c0a4dc648f5b3dd8555e1fd7ac4",
+        "Name": "klusadvies",
+        "Title": "Klusadvies",
+        "LinkTitle": "Klusadvies",
+        "Url": "klusadvies",
+        "PathUrl": "",
+        "AlternateUrl": "/kluswijzer-stappenplan",
+        "Leaf": true,
+        "SortIndex": 2,
+        "Children": []
+      },
+      {
+        "ID": "d1b8caa86251481295db216ddbdd2fc6",
+        "Name": "kleurenkiezer",
+        "Title": "Kleurenkiezer",
+        "LinkTitle": "Kleurenkiezer",
+        "Url": "kleurenkiezer-link",
+        "PathUrl": "",
+        "AlternateUrl": "/kleurenkiezer",
+        "Leaf": true,
+        "SortIndex": 3,
+        "Children": []
+      }
+    ],
+    "FooterMenu": [
+      {
+        "ID": "04eef581bf8040228521afbecf1250d5",
+        "Name": "footer-link-1",
+        "Title": "Footer link 1",
+        "Url": "footer-link-1",
+        "Leaf": true,
+        "SortIndex": 0,
+        "Children": [
+          {
+            "ID": "4ddf543ef428480aa5e5962b20dd4b39",
+            "Name": "ral-kleuren",
+            "Title": "RAL-kleuren",
+            "Url": "ral-kleuren",
+            "Leaf": true,
+            "SortIndex": 0,
+            "Children": []
+          },
+          {
+            "ID": "a8a474e79d934de491af2b6402f9d4e6",
+            "Name": "tegels-verven",
+            "Title": "Tegels verven",
+            "Url": "tegels-verven",
+            "Leaf": true,
+            "SortIndex": 1,
+            "Children": []
+          }
+        ]
+      },
+      {
+        "ID": "e114817fc4644dc4b68015f71326c281",
+        "Name": "footer-link-2",
+        "Title": "Footer link 2",
+        "Url": "footer-link-2",
+        "Leaf": true,
+        "SortIndex": 1,
+        "Children": [
+          {
+            "ID": "b653e44b552f42a7a7e3e1f22fc6d842",
+            "Name": "footer-link-3",
+            "Title": "Footer link 3",
+            "Url": "footer-link-3",
+            "Leaf": true,
+            "SortIndex": 0,
+            "Children": []
+          },
+          {
+            "ID": "217abf7d29bf4314b4e43b1d39e21fbe",
+            "Name": "voc-2010",
+            "Title": "VOC 2010",
+            "Url": "voc-2010",
+            "Leaf": true,
+            "SortIndex": 1,
+            "Children": []
+          }
+        ]
+      }
+    ],
+    "SubFooterMenu": [
+      {
+        "ID": "360ad00b708e4d9680486ee7ff88e81d",
+        "Name": "algemene-voorwaarden",
+        "Title": "Algemene voorwaarden",
+        "Url": "algemene-voorwaarden",
+        "Leaf": true,
+        "SortIndex": 0,
+        "Children": [
+          {
+            "ID": "8753203cf99d4bbc897982759b668a49",
+            "Name": "afterpay-uitleg",
+            "Title": "AfterPay Uitleg",
+            "Url": "afterpay-uitleg",
+            "Leaf": true,
+            "SortIndex": 0,
+            "Children": []
+          }
+        ]
+      },
+      {
+        "ID": "c04b1e04ce55437498074f93aa639726",
+        "Name": "privacy",
+        "Title": "Privacy",
+        "LinkTitle": "",
+        "Url": "privacy",
+        "PathUrl": "",
+        "AlternateUrl": "",
+        "Leaf": true,
+        "SortIndex": 1,
+        "Children": []
+      }
+    ],
+    "Menus": [],
+    "PathItems": []
+  },
+  "DurationMs": 28761
+}

@@ -1,0 +1,716 @@
+{
+  "Success": true,
+  "Config": {
+    "Cultures": ["nl-NL"],
+    "CustomerGroups": {
+      "Loyalty": ["SPAAR"],
+      "NonLoyalty": ["STANDAARD"]
+    },
+    "BusinessCustomerEnabled": false,
+    "SpecialWebNodes": {},
+    "SpecialLinks": {},
+    "ProductScanCodes": {
+      "Delivery": "VERZENDKOSTEN",
+      "FoldingCrate": []
+    },
+    "OrderGuestEnabled": false,
+    "GtmSetting": "GTM-P3J3JPL",
+    "WebshopStoreId": 6,
+    "ProductSpecifications": {
+      "HUIDTYPE": "HUIDTYPE",
+      "MaxInCart": "Maximaal in winkelmand",
+      "ExternalLine": "Collectie",
+      "ExternalContent": "Inhoud",
+      "ExternalFragFamily": "Geurfamilie",
+      "ExternalProductSkinType": "Huidtype",
+      "ExternalHairConcern": "Haarbehoefte",
+      "ExternalConcern": "Huidzorg",
+      "ExternalBenefits": "Mascara Effect",
+      "ExternalFormulations": "Textuur",
+      "ExternalFinish": "Afwerking",
+      "ExternalCoverage": "Dekking",
+      "ORDERABLEWEBSHOP": "OrderableWebshop",
+      "ExternalSunProtection": "Zonnebescherming",
+      "HasStock": "Op Voorraad"
+    }
+  },
+  "Regions": {
+    "ET": {
+      "EN": "Ethiopia",
+      "ET": "Ethiopia",
+      "NL": "Ethiopië"
+    },
+    "ZA": {
+      "EN": "South Africa",
+      "ZA": "Suid-Afrika",
+      "NL": "Zuid-Afrika"
+    },
+    "AE": {
+      "EN": "United Arab Emirates",
+      "AE": "الإمارات العربية المتحدة",
+      "NL": "Verenigde Arabische Emiraten"
+    },
+    "BH": {
+      "EN": "Bahrain",
+      "BH": "البحرين",
+      "NL": "Bahrein"
+    },
+    "DZ": {
+      "EN": "Algeria",
+      "DZ": "الجزائر",
+      "NL": "Algerije"
+    },
+    "EG": {
+      "EN": "Egypt",
+      "EG": "مصر",
+      "NL": "Egypte"
+    },
+    "IQ": {
+      "EN": "Iraq",
+      "IQ": "العراق",
+      "NL": "Irak"
+    },
+    "JO": {
+      "EN": "Jordan",
+      "JO": "الأردن",
+      "NL": "Jordanië"
+    },
+    "KW": {
+      "EN": "Kuwait",
+      "KW": "الكويت",
+      "NL": "Koeweit"
+    },
+    "LB": {
+      "EN": "Lebanon",
+      "LB": "لبنان",
+      "NL": "Libanon"
+    },
+    "LY": {
+      "EN": "Libya",
+      "LY": "ليبيا",
+      "NL": "Libië"
+    },
+    "MA": {
+      "EN": "Morocco",
+      "MA": "المغرب",
+      "NL": "Marokko"
+    },
+    "OM": {
+      "EN": "Oman",
+      "OM": "عُمان",
+      "NL": "Oman"
+    },
+    "QA": {
+      "EN": "Qatar",
+      "QA": "قطر",
+      "NL": "Qatar"
+    },
+    "SA": {
+      "EN": "Saudi Arabia",
+      "SA": "المملكة العربية السعودية",
+      "NL": "Saudi-Arabië"
+    },
+    "SY": {
+      "EN": "Syria",
+      "SY": "سوريا",
+      "NL": "Syrië"
+    },
+    "TN": {
+      "EN": "Tunisia",
+      "TN": "تونس",
+      "NL": "Tunesië"
+    },
+    "YE": {
+      "EN": "Yemen",
+      "YE": "اليمن",
+      "NL": "Jemen"
+    },
+    "CL": {
+      "EN": "Chile",
+      "CL": "Chile",
+      "NL": "Chili"
+    },
+    "IN": {
+      "EN": "India",
+      "IN": "ভাৰত",
+      "NL": "India"
+    },
+    "AZ": {
+      "EN": "Azerbaijan",
+      "AZ": "Азәрбајҹан",
+      "NL": "Azerbeidzjan"
+    },
+    "RU": {
+      "EN": "Russia",
+      "RU": "Russia",
+      "NL": "Rusland"
+    },
+    "BY": {
+      "EN": "Belarus",
+      "BY": "Беларусь",
+      "NL": "Wit-Rusland"
+    },
+    "BG": {
+      "EN": "Bulgaria",
+      "BG": "България",
+      "NL": "Bulgarije"
+    },
+    "NG": {
+      "EN": "Nigeria",
+      "NG": "Nigeria",
+      "NL": "Nigeria"
+    },
+    "BD": {
+      "EN": "Bangladesh",
+      "BD": "বাংলাদেশ",
+      "NL": "Bangladesh"
+    },
+    "CN": {
+      "EN": "China",
+      "CN": "རྒྱ་ནག",
+      "NL": "China"
+    },
+    "FR": {
+      "EN": "France",
+      "FR": "Frañs",
+      "NL": "Frankrijk"
+    },
+    "BA": {
+      "EN": "Bosnia & Herzegovina",
+      "BA": "Босна и Херцеговина",
+      "NL": "Bosnië-Herzegovina"
+    },
+    "ES": {
+      "EN": "Spain",
+      "ES": "Espanya",
+      "NL": "Spanje"
+    },
+    "CZ": {
+      "EN": "Czechia",
+      "CZ": "Česko",
+      "NL": "Tsjechië"
+    },
+    "GB": {
+      "EN": "United Kingdom",
+      "GB": "Y Deyrnas Unedig",
+      "NL": "Verenigd Koninkrijk"
+    },
+    "DK": {
+      "EN": "Denmark",
+      "DK": "Danmark",
+      "NL": "Denemarken"
+    },
+    "AT": {
+      "EN": "Austria",
+      "AT": "Österreich",
+      "NL": "Oostenrijk"
+    },
+    "CH": {
+      "EN": "Switzerland",
+      "CH": "Schweiz",
+      "NL": "Zwitserland"
+    },
+    "DE": {
+      "EN": "Germany",
+      "DE": "Deutschland",
+      "NL": "Duitsland"
+    },
+    "LI": {
+      "EN": "Liechtenstein",
+      "LI": "Liechtenstein",
+      "NL": "Liechtenstein"
+    },
+    "LU": {
+      "EN": "Luxembourg",
+      "LU": "Luxemburg",
+      "NL": "Luxemburg"
+    },
+    "MV": {
+      "EN": "Maldives",
+      "MV": "Maldives",
+      "NL": "Maldiven"
+    },
+    "BT": {
+      "EN": "Bhutan",
+      "BT": "འབྲུག",
+      "NL": "Bhutan"
+    },
+    "GR": {
+      "EN": "Greece",
+      "GR": "Ελλάδα",
+      "NL": "Griekenland"
+    },
+    "AU": {
+      "EN": "Australia",
+      "AU": "Australia",
+      "NL": "Australië"
+    },
+    "BZ": {
+      "EN": "Belize",
+      "BZ": "Belize",
+      "NL": "Belize"
+    },
+    "CA": {
+      "EN": "Canada",
+      "CA": "Canada",
+      "NL": "Canada"
+    },
+    "HK": {
+      "EN": "Hong Kong SAR",
+      "HK": "Hong Kong SAR",
+      "NL": "Hong Kong"
+    },
+    "ID": {
+      "EN": "Indonesia",
+      "ID": "Indonesia",
+      "NL": "Indonesia"
+    },
+    "IE": {
+      "EN": "Ireland",
+      "IE": "Ireland",
+      "NL": "Ierland"
+    },
+    "JM": {
+      "EN": "Jamaica",
+      "JM": "Jamaica",
+      "NL": "Jamaica"
+    },
+    "MY": {
+      "EN": "Malaysia",
+      "MY": "Malaysia",
+      "NL": "Maleisië"
+    },
+    "NZ": {
+      "EN": "New Zealand",
+      "NZ": "New Zealand",
+      "NL": "Nieuw-Zeeland"
+    },
+    "PH": {
+      "EN": "Philippines",
+      "PH": "Philippines",
+      "NL": "Filipijnen"
+    },
+    "SG": {
+      "EN": "Singapore",
+      "SG": "Singapore",
+      "NL": "Singapore"
+    },
+    "TT": {
+      "EN": "Trinidad & Tobago",
+      "TT": "Trinidad & Tobago",
+      "NL": "Trinidad en Tobago"
+    },
+    "US": {
+      "EN": "United States",
+      "US": "United States",
+      "NL": "Verenigde Staten van Amerika"
+    },
+    "ZW": {
+      "EN": "Zimbabwe",
+      "ZW": "Zimbabwe",
+      "NL": "Zimbabwe"
+    },
+    "AR": {
+      "EN": "Argentina",
+      "AR": "Argentina",
+      "NL": "Argentinië"
+    },
+    "BO": {
+      "EN": "Bolivia",
+      "BO": "Bolivia",
+      "NL": "Bolivië"
+    },
+    "CO": {
+      "EN": "Colombia",
+      "CO": "Colombia",
+      "NL": "Colombia"
+    },
+    "CR": {
+      "EN": "Costa Rica",
+      "CR": "Costa Rica",
+      "NL": "Costa Rica"
+    },
+    "CU": {
+      "EN": "Cuba",
+      "CU": "Cuba",
+      "NL": "Cuba"
+    },
+    "DO": {
+      "EN": "Dominican Republic",
+      "DO": "República Dominicana",
+      "NL": "Dominicaanse Republiek"
+    },
+    "EC": {
+      "EN": "Ecuador",
+      "EC": "Ecuador",
+      "NL": "Ecuador"
+    },
+    "GT": {
+      "EN": "Guatemala",
+      "GT": "Guatemala",
+      "NL": "Guatemala"
+    },
+    "HN": {
+      "EN": "Honduras",
+      "HN": "Honduras",
+      "NL": "Honduras"
+    },
+    "MX": {
+      "EN": "Mexico",
+      "MX": "México",
+      "NL": "Mexico"
+    },
+    "NI": {
+      "EN": "Nicaragua",
+      "NI": "Nicaragua",
+      "NL": "Nicaragua"
+    },
+    "PA": {
+      "EN": "Panama",
+      "PA": "Panamá",
+      "NL": "Panama"
+    },
+    "PE": {
+      "EN": "Peru",
+      "PE": "Perú",
+      "NL": "Peru"
+    },
+    "PR": {
+      "EN": "Puerto Rico",
+      "PR": "Puerto Rico",
+      "NL": "Puerto Rico"
+    },
+    "PY": {
+      "EN": "Paraguay",
+      "PY": "Paraguay",
+      "NL": "Paraguay"
+    },
+    "SV": {
+      "EN": "El Salvador",
+      "SV": "El Salvador",
+      "NL": "El Salvador"
+    },
+    "UY": {
+      "EN": "Uruguay",
+      "UY": "Uruguay",
+      "NL": "Uruguay"
+    },
+    "VE": {
+      "EN": "Venezuela",
+      "VE": "Venezuela",
+      "NL": "Venezuela"
+    },
+    "EE": {
+      "EN": "Estonia",
+      "EE": "Eesti",
+      "NL": "Estland"
+    },
+    "IR": {
+      "EN": "Iran",
+      "IR": "ایران",
+      "NL": "Iran"
+    },
+    "SN": {
+      "EN": "Senegal",
+      "SN": "Senegaal",
+      "NL": "Senegal"
+    },
+    "FI": {
+      "EN": "Finland",
+      "FI": "Suomi",
+      "NL": "Finland"
+    },
+    "FO": {
+      "EN": "Faroe Islands",
+      "FO": "Føroyar",
+      "NL": "Faeröer"
+    },
+    "BE": {
+      "EN": "Belgium",
+      "BE": "Belgique",
+      "NL": "België"
+    },
+    "CD": {
+      "EN": "Congo (DRC)",
+      "CD": "Congo (République démocratique du)",
+      "NL": "Congo, Democratische Republiek"
+    },
+    "CI": {
+      "EN": "Côte d’Ivoire",
+      "CI": "Côte d’Ivoire",
+      "NL": "Ivoorkust"
+    },
+    "CM": {
+      "EN": "Cameroon",
+      "CM": "Cameroun",
+      "NL": "Kameroen"
+    },
+    "HT": {
+      "EN": "Haiti",
+      "HT": "Haïti",
+      "NL": "Haïti"
+    },
+    "MC": {
+      "EN": "Monaco",
+      "MC": "Monaco",
+      "NL": "Monaco"
+    },
+    "ML": {
+      "EN": "Mali",
+      "ML": "Mali",
+      "NL": "Mali"
+    },
+    "RE": {
+      "EN": "Réunion",
+      "RE": "La Réunion",
+      "NL": "Réunion"
+    },
+    "NL": {
+      "EN": "Netherlands",
+      "NL": "Nederland"
+    },
+    "IL": {
+      "EN": "Israel",
+      "IL": "ישראל",
+      "NL": "Israël"
+    },
+    "HR": {
+      "EN": "Croatia",
+      "HR": "Hrvatska",
+      "NL": "Kroatië"
+    },
+    "HU": {
+      "EN": "Hungary",
+      "HU": "Magyarország",
+      "NL": "Hongarije"
+    },
+    "AM": {
+      "EN": "Armenia",
+      "AM": "Հայաստան",
+      "NL": "Armenië"
+    },
+    "IS": {
+      "EN": "Iceland",
+      "IS": "Ísland",
+      "NL": "IJsland"
+    },
+    "IT": {
+      "EN": "Italy",
+      "IT": "Italia",
+      "NL": "Italië"
+    },
+    "JP": {
+      "EN": "Japan",
+      "JP": "日本",
+      "NL": "Japan"
+    },
+    "GE": {
+      "EN": "Georgia",
+      "GE": "საქართველო",
+      "NL": "Georgië"
+    },
+    "KZ": {
+      "EN": "Kazakhstan",
+      "KZ": "Қазақстан",
+      "NL": "Kazachstan"
+    },
+    "GL": {
+      "EN": "Greenland",
+      "GL": "Kalaallit Nunaat",
+      "NL": "Groenland"
+    },
+    "KH": {
+      "EN": "Cambodia",
+      "KH": "កម្ពុជា",
+      "NL": "Cambodja"
+    },
+    "KR": {
+      "EN": "Korea",
+      "KR": "대한민국",
+      "NL": "Zuid-Korea"
+    },
+    "KG": {
+      "EN": "Kyrgyzstan",
+      "KG": "Кыргызстан",
+      "NL": "Kirgizstan"
+    },
+    "LA": {
+      "EN": "Laos",
+      "LA": "ລາວ",
+      "NL": "Laos"
+    },
+    "LT": {
+      "EN": "Lithuania",
+      "LT": "Lietuva",
+      "NL": "Litouwen"
+    },
+    "LV": {
+      "EN": "Latvia",
+      "LV": "Latvija",
+      "NL": "Letland"
+    },
+    "MK": {
+      "EN": "North Macedonia",
+      "MK": "Северна Македонија",
+      "NL": "Macedonië, Ex-Joegoslavische Republiek"
+    },
+    "MN": {
+      "EN": "Mongolia",
+      "MN": "Монгол",
+      "NL": "Mongolië"
+    },
+    "BN": {
+      "EN": "Brunei",
+      "BN": "Brunei",
+      "NL": "Brunei Darussalam"
+    },
+    "MT": {
+      "EN": "Malta",
+      "MT": "Malta",
+      "NL": "Malta"
+    },
+    "MM": {
+      "EN": "Myanmar",
+      "MM": "မြန်မာ",
+      "NL": "Myanmar"
+    },
+    "NO": {
+      "EN": "Norway",
+      "NO": "Norge",
+      "NL": "Noorwegen"
+    },
+    "NP": {
+      "EN": "Nepal",
+      "NP": "नेपाल",
+      "NL": "Nepal"
+    },
+    "PK": {
+      "EN": "Pakistan",
+      "PK": "پاکستان",
+      "NL": "Pakistan"
+    },
+    "PL": {
+      "EN": "Poland",
+      "PL": "Polska",
+      "NL": "Polen"
+    },
+    "AF": {
+      "EN": "Afghanistan",
+      "AF": "افغانستان",
+      "NL": "Afghanistan"
+    },
+    "BR": {
+      "EN": "Brazil",
+      "BR": "Brasil",
+      "NL": "Brazilië"
+    },
+    "PT": {
+      "EN": "Portugal",
+      "PT": "Portugal",
+      "NL": "Portugal"
+    },
+    "MD": {
+      "EN": "Moldova",
+      "MD": "Republica Moldova",
+      "NL": "Moldavië"
+    },
+    "RO": {
+      "EN": "Romania",
+      "RO": "România",
+      "NL": "Roemenië"
+    },
+    "RW": {
+      "EN": "Rwanda",
+      "RW": "U Rwanda",
+      "NL": "Rwanda"
+    },
+    "SE": {
+      "EN": "Sweden",
+      "SE": "Ruoŧŧa",
+      "NL": "Zweden"
+    },
+    "LK": {
+      "EN": "Sri Lanka",
+      "LK": "ශ්‍රී ලංකාව",
+      "NL": "Sri Lanka"
+    },
+    "SK": {
+      "EN": "Slovakia",
+      "SK": "Slovensko",
+      "NL": "Slowakije"
+    },
+    "SI": {
+      "EN": "Slovenia",
+      "SI": "Slovenija",
+      "NL": "Slovenië"
+    },
+    "SO": {
+      "EN": "Somalia",
+      "SO": "Soomaaliya",
+      "NL": "Somalië"
+    },
+    "AL": {
+      "EN": "Albania",
+      "AL": "Shqipëri",
+      "NL": "Albanië"
+    },
+    "ME": {
+      "EN": "Montenegro",
+      "ME": "Црна Гора",
+      "NL": "Montenegro"
+    },
+    "RS": {
+      "EN": "Serbia",
+      "RS": "Србија",
+      "NL": "Servië"
+    },
+    "KE": {
+      "EN": "Kenya",
+      "KE": "Kenya",
+      "NL": "Kenia"
+    },
+    "TH": {
+      "EN": "Thailand",
+      "TH": "ไทย",
+      "NL": "Thailand"
+    },
+    "ER": {
+      "EN": "Eritrea",
+      "ER": "ኤርትራ",
+      "NL": "Eritrea"
+    },
+    "TM": {
+      "EN": "Turkmenistan",
+      "TM": "Türkmenistan",
+      "NL": "Turkmenistan"
+    },
+    "BW": {
+      "EN": "Botswana",
+      "BW": "Botswana",
+      "NL": "Botswana"
+    },
+    "TR": {
+      "EN": "Turkey",
+      "TR": "Türkiye",
+      "NL": "Turkije"
+    },
+    "UA": {
+      "EN": "Ukraine",
+      "UA": "Україна",
+      "NL": "Oekraïne"
+    },
+    "UZ": {
+      "EN": "Uzbekistan",
+      "UZ": "Ўзбекистон",
+      "NL": "Oezbekistan"
+    },
+    "VN": {
+      "EN": "Vietnam",
+      "VN": "Việt Nam",
+      "NL": "Vietnam"
+    }
+  },
+  "Shipment": {
+    "ShippingProvider": "Transsmart"
+  }
+}

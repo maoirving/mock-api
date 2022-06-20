@@ -1,0 +1,986 @@
+{
+  "Success": true,
+  "Stores": [
+    {
+      "Id": 6,
+      "Code": "M103",
+      "Name": "Parfuma Webshop",
+      "Street": "Mechelsesteenweg",
+      "HouseNumber": "1",
+      "HouseNumberExtension": "",
+      "PostalCode": "2540",
+      "City": "Hove",
+      "CountryCode": "BE",
+      "PhoneNumber": "+32 3 232 46 11",
+      "Email": "webshop@parfuma.com",
+      "FaxNumber": "+32 3 226 38 90",
+      "TaxNumber": "BE0406370513",
+      "CoCNumber": "",
+      "BankAccount": "BE32736002176302",
+      "OpeningDate": "2008-06-01T00:00:00.0000000+00:00",
+      "Memo": "",
+      "BranchNumber": 103,
+      "FormulaCode": "F",
+      "FormulaDescription": "Winkels",
+      "Status": "Active",
+      "Website": "www.parfuma.com",
+      "OpeningTimes": {
+        "StoreId": 6,
+        "ExtraOpeningDays": "",
+        "ExtraClosingDays": "",
+        "Weekdays": [
+          {
+            "Day": "Monday"
+          },
+          {
+            "Day": "Tuesday"
+          },
+          {
+            "Day": "Wednesday"
+          },
+          {
+            "Day": "Thursday"
+          },
+          {
+            "Day": "Friday"
+          },
+          {
+            "Day": "Saturday"
+          }
+        ]
+      },
+      "Images": [
+        {
+          "Id": 218,
+          "RelatedId": 6,
+          "Type": "Logo1",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Logo1/190520/e71249fe-d3a0-4a1b-a100-7a2e6092d5fc.png"
+        }
+      ],
+      "Location": {
+        "GlobalLocationNumber": "",
+        "DistanceInMeters": 5830407
+      },
+      "ExtendedProperties": [
+        {
+          "Name": "gebruik offline",
+          "Value": "True"
+        },
+        {
+          "Name": "uitloggen na transactie",
+          "Value": "True"
+        },
+        {
+          "Name": "toon controlescherm",
+          "Value": "False"
+        },
+        {
+          "Name": "menu enable toggle",
+          "Value": "False"
+        },
+        {
+          "Name": "retour verplicht",
+          "Value": "False"
+        },
+        {
+          "Name": "BlindCount",
+          "Value": "False"
+        },
+        {
+          "Name": "JDSNumber",
+          "Value": ""
+        },
+        {
+          "Name": "WebShopDefaultPaymentCode",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefaultShipment",
+          "Value": "0"
+        },
+        {
+          "Name": "CashCountReport",
+          "Value": "0"
+        },
+        {
+          "Name": "POS-NCFontname",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCFontColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroudColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCNoPlaylistImage",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefCustomer",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefDeliveryProduct",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHHomeOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHTakeAwayOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefHomeOrdPaymCode",
+          "Value": "0"
+        },
+        {
+          "Name": "POS-NCLogoImage",
+          "Value": ""
+        },
+        {
+          "Name": "GLN",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroundImage",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBarColor",
+          "Value": ""
+        },
+        {
+          "Name": "MailAddressAdministration",
+          "Value": ""
+        },
+        {
+          "Name": "ExternalStoreCode",
+          "Value": ""
+        },
+        {
+          "Name": "CustomerOrderWarehouse",
+          "Value": ""
+        },
+        {
+          "Name": "WebOrdersCollectLastRun",
+          "Value": "1700"
+        },
+        {
+          "Name": "Characteristic1",
+          "Value": ""
+        },
+        {
+          "Name": "Characteristic2",
+          "Value": ""
+        },
+        {
+          "Name": "Characteristic3",
+          "Value": ""
+        },
+        {
+          "Name": "Characteristic4",
+          "Value": ""
+        },
+        {
+          "Name": "Characteristic5",
+          "Value": ""
+        }
+      ],
+      "Type": "City shop",
+      "LocationType": "A1"
+    },
+    {
+      "Id": 33,
+      "Code": "M104",
+      "Name": "Parfuma Hove",
+      "Street": "Mechelsesteenweg",
+      "HouseNumber": "1",
+      "HouseNumberExtension": "",
+      "PostalCode": "2540",
+      "City": "Hove",
+      "CountryCode": "BE",
+      "PhoneNumber": "+32 3 375 70 90",
+      "Email": "hove@parfuma.com",
+      "FaxNumber": "",
+      "TaxNumber": "BE0406370513",
+      "CoCNumber": "",
+      "BankAccount": "BE53737056270753",
+      "OpeningDate": "2021-10-27T00:00:00.0000000+00:00",
+      "Memo": "<span style=\"font-size: 13px;\">Kom langs bij Parfuma Hove en ontdek onze exclusieve merken Montale, Acqua di Parma, ENVIRON, Oribe en nog veel meer!</span>",
+      "BranchNumber": 104,
+      "FormulaCode": "F",
+      "FormulaDescription": "Winkels",
+      "Status": "Active",
+      "Website": "www.parfuma.com",
+      "OpeningTimes": {
+        "StoreId": 33,
+        "ExtraOpeningDays": "ook OPEN elke EERSTE ZONDAG van de maand van 13u00-17u00",
+        "ExtraClosingDays": "",
+        "Weekdays": [
+          {
+            "Day": "Monday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Tuesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Wednesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Thursday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Friday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Saturday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          }
+        ]
+      },
+      "Images": [
+        {
+          "Id": 23558,
+          "RelatedId": 33,
+          "Type": "FrontSide",
+          "Url": "https://testimageretrieval.aspos.nl/Store/FrontSide/190520/63d81a6d-8653-4ea4-9a83-736af113c805.jpg"
+        },
+        {
+          "Id": 23559,
+          "RelatedId": 33,
+          "Type": "Inside",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Inside/190520/68209e7f-f625-4c7c-8d27-fe7950c24395.jpg"
+        },
+        {
+          "Id": 24123,
+          "RelatedId": 33,
+          "Type": "Logo1",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Logo1/190520/2ef6b69f-a9bd-4fc5-a534-91eabf2c09ca.jpg"
+        }
+      ],
+      "Location": {
+        "Latitude": 51.1471322,
+        "Longitude": 4.461068,
+        "GlobalLocationNumber": "",
+        "DistanceInMeters": 127911
+      },
+      "ExtendedProperties": [
+        {
+          "Name": "gebruik offline",
+          "Value": "True"
+        },
+        {
+          "Name": "uitloggen na transactie",
+          "Value": "True"
+        },
+        {
+          "Name": "toon controlescherm",
+          "Value": "False"
+        },
+        {
+          "Name": "menu enable toggle",
+          "Value": "False"
+        },
+        {
+          "Name": "retour verplicht",
+          "Value": "False"
+        },
+        {
+          "Name": "BlindCount",
+          "Value": "False"
+        },
+        {
+          "Name": "JDSNumber",
+          "Value": "109458"
+        },
+        {
+          "Name": "WebShopDefaultPaymentCode",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefaultShipment",
+          "Value": "0"
+        },
+        {
+          "Name": "CashCountReport",
+          "Value": "54"
+        },
+        {
+          "Name": "POS-NCFontname",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCFontColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroudColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCNoPlaylistImage",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefCustomer",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefDeliveryProduct",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHHomeOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHTakeAwayOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefHomeOrdPaymCode",
+          "Value": "0"
+        },
+        {
+          "Name": "POS-NCLogoImage",
+          "Value": ""
+        },
+        {
+          "Name": "GLN",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroundImage",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBarColor",
+          "Value": ""
+        },
+        {
+          "Name": "MailAddressAdministration",
+          "Value": ""
+        },
+        {
+          "Name": "ExternalStoreCode",
+          "Value": ""
+        },
+        {
+          "Name": "CustomerOrderWarehouse",
+          "Value": ""
+        }
+      ],
+      "Type": "City shop",
+      "LocationType": "A1"
+    },
+    {
+      "Id": 4,
+      "Code": "M101",
+      "Name": "Parfuma Antwerpen",
+      "Street": "Eiermarkt",
+      "HouseNumber": "31",
+      "HouseNumberExtension": "",
+      "PostalCode": "2000",
+      "City": "Antwerpen",
+      "CountryCode": "BE",
+      "PhoneNumber": "+32 3 232 46 11",
+      "Email": "antwerpen@parfuma.com",
+      "FaxNumber": "",
+      "TaxNumber": "BE0406370513",
+      "CoCNumber": "",
+      "BankAccount": "BE42409851593154",
+      "OpeningDate": "2018-12-10T00:00:00.0000000+00:00",
+      "Memo": "Kom langs bij Parfuma Antwerpen en ontdek onze exclusieve merken TOM FORD, NARS, Bobbi Brown, Giorgio Armani Beauty, Jo Malone London en nog veel meer!",
+      "BranchNumber": 101,
+      "FormulaCode": "F",
+      "FormulaDescription": "Winkels",
+      "Status": "Active",
+      "Website": "www.parfuma.com",
+      "OpeningTimes": {
+        "StoreId": 4,
+        "ExtraOpeningDays": "ook OPEN elke EERSTE ZONDAG van de maand van 13u00-17u00",
+        "ExtraClosingDays": "",
+        "Weekdays": [
+          {
+            "Day": "Monday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Tuesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Wednesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Thursday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Friday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Saturday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          }
+        ]
+      },
+      "Images": [
+        {
+          "Id": 206,
+          "RelatedId": 4,
+          "Type": "FrontSide",
+          "Url": "https://testimageretrieval.aspos.nl/Store/FrontSide/190520/e46f91bc-e2c1-4308-8a53-e78efea881df.jpg"
+        },
+        {
+          "Id": 207,
+          "RelatedId": 4,
+          "Type": "Inside",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Inside/190520/58a1a6e8-69a7-416f-aa93-d7d92d86387a.jpg"
+        },
+        {
+          "Id": 6383,
+          "RelatedId": 4,
+          "Type": "Logo1",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Logo1/190520/83b07b80-2b85-42f4-bfc9-3ccfebc08572.jpg"
+        }
+      ],
+      "Location": {
+        "Latitude": 51.2192721,
+        "Longitude": 4.4019167,
+        "GlobalLocationNumber": "",
+        "DistanceInMeters": 120840
+      },
+      "ExtendedProperties": [
+        {
+          "Name": "gebruik offline",
+          "Value": "True"
+        },
+        {
+          "Name": "uitloggen na transactie",
+          "Value": "True"
+        },
+        {
+          "Name": "toon controlescherm",
+          "Value": "False"
+        },
+        {
+          "Name": "menu enable toggle",
+          "Value": "False"
+        },
+        {
+          "Name": "retour verplicht",
+          "Value": "False"
+        },
+        {
+          "Name": "BlindCount",
+          "Value": "False"
+        },
+        {
+          "Name": "JDSNumber",
+          "Value": "107540"
+        },
+        {
+          "Name": "WebShopDefaultPaymentCode",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefaultShipment",
+          "Value": "0"
+        },
+        {
+          "Name": "CashCountReport",
+          "Value": "54"
+        },
+        {
+          "Name": "POS-NCFontname",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCFontColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroudColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCNoPlaylistImage",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefCustomer",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefDeliveryProduct",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHHomeOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHTakeAwayOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefHomeOrdPaymCode",
+          "Value": "0"
+        },
+        {
+          "Name": "POS-NCLogoImage",
+          "Value": ""
+        },
+        {
+          "Name": "GLN",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroundImage",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBarColor",
+          "Value": ""
+        },
+        {
+          "Name": "MailAddressAdministration",
+          "Value": ""
+        },
+        {
+          "Name": "ExternalStoreCode",
+          "Value": ""
+        },
+        {
+          "Name": "CustomerOrderWarehouse",
+          "Value": ""
+        }
+      ],
+      "Type": "City shop",
+      "LocationType": "A1"
+    },
+    {
+      "Id": 13,
+      "Code": "M108",
+      "Name": "Skin Expertise Parfuma",
+      "Street": "Eiermarkt",
+      "HouseNumber": "31",
+      "HouseNumberExtension": "",
+      "PostalCode": "2000",
+      "City": "ANTWERPEN",
+      "CountryCode": "BE",
+      "PhoneNumber": "+32 3 233 36 31",
+      "Email": "skinexpertise@parfuma.com",
+      "FaxNumber": "0",
+      "TaxNumber": "BE0406370513",
+      "CoCNumber": "",
+      "BankAccount": "BE42409851593154",
+      "OpeningDate": "2019-07-15T00:00:00.0000000+00:00",
+      "ClosingDate": "2021-11-01T00:00:00.0000000+00:00",
+      "Memo": "Interparking - naast Parfuma Antwerpen.\nEVENTS : Hier",
+      "BranchNumber": 108,
+      "FormulaCode": "F",
+      "FormulaDescription": "Winkels",
+      "Status": "Active",
+      "Website": "www.parfuma.com",
+      "OpeningTimes": {
+        "StoreId": 13,
+        "ExtraOpeningDays": "\n\nELKE EERSTE ZONDAG VAN DE MAAND, VAN 13u-17u |\n•\t12 december 2021\n•\t19 december 2021 (van 12u-18u)\n*geen behandelingen mogelijk.",
+        "ExtraClosingDays": "",
+        "Weekdays": [
+          {
+            "Day": "Monday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Tuesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Wednesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Thursday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Friday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          },
+          {
+            "Day": "Saturday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT18H"
+          }
+        ]
+      },
+      "Images": [
+        {
+          "Id": 212,
+          "RelatedId": 13,
+          "Type": "Logo1",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Logo1/190520/31fa74ba-eb05-4065-8b83-629b11daa1b5.jpg"
+        },
+        {
+          "Id": 213,
+          "RelatedId": 13,
+          "Type": "FrontSide",
+          "Url": "https://testimageretrieval.aspos.nl/Store/FrontSide/190520/c824b1a0-9a55-4643-9470-f7adf134d075.jpg"
+        },
+        {
+          "Id": 214,
+          "RelatedId": 13,
+          "Type": "Inside",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Inside/190520/e0f9e8cc-f3c2-4d01-9b38-374190cea746.jpg"
+        }
+      ],
+      "Location": {
+        "Latitude": 51.2192721,
+        "Longitude": 4.4019167,
+        "GlobalLocationNumber": "",
+        "DistanceInMeters": 120840
+      },
+      "ExtendedProperties": [
+        {
+          "Name": "gebruik offline",
+          "Value": "True"
+        },
+        {
+          "Name": "uitloggen na transactie",
+          "Value": "True"
+        },
+        {
+          "Name": "toon controlescherm",
+          "Value": "False"
+        },
+        {
+          "Name": "menu enable toggle",
+          "Value": "False"
+        },
+        {
+          "Name": "retour verplicht",
+          "Value": "False"
+        },
+        {
+          "Name": "BlindCount",
+          "Value": "False"
+        },
+        {
+          "Name": "JDSNumber",
+          "Value": ""
+        },
+        {
+          "Name": "WebShopDefaultPaymentCode",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefaultShipment",
+          "Value": "0"
+        },
+        {
+          "Name": "CashCountReport",
+          "Value": "54"
+        },
+        {
+          "Name": "POS-NCFontname",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCFontColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroudColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCNoPlaylistImage",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefCustomer",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefDeliveryProduct",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHHomeOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHTakeAwayOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefHomeOrdPaymCode",
+          "Value": "0"
+        },
+        {
+          "Name": "POS-NCLogoImage",
+          "Value": ""
+        },
+        {
+          "Name": "GLN",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroundImage",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBarColor",
+          "Value": ""
+        },
+        {
+          "Name": "MailAddressAdministration",
+          "Value": ""
+        },
+        {
+          "Name": "ExternalStoreCode",
+          "Value": ""
+        },
+        {
+          "Name": "CustomerOrderWarehouse",
+          "Value": ""
+        }
+      ],
+      "Type": "City shop",
+      "LocationType": "A1"
+    },
+    {
+      "Id": 5,
+      "Code": "M102",
+      "Name": "Parfuma Wijnegem",
+      "Street": "Turnhoutsebaan",
+      "HouseNumber": "5",
+      "HouseNumberExtension": "Shop7",
+      "PostalCode": "2110",
+      "City": "Wijnegem",
+      "CountryCode": "BE",
+      "PhoneNumber": "+32 3 353 14 16",
+      "Email": "wijnegem@parfuma.com",
+      "FaxNumber": "+32 3 353 97 99",
+      "TaxNumber": "BE0448319449",
+      "CoCNumber": "",
+      "BankAccount": "BE50409855644118",
+      "OpeningDate": "1993-02-10T00:00:00.0000000+00:00",
+      "Memo": "",
+      "BranchNumber": 102,
+      "FormulaCode": "F",
+      "FormulaDescription": "Winkels",
+      "Status": "Active",
+      "Website": "www.parfuma.com",
+      "OpeningTimes": {
+        "StoreId": 5,
+        "ExtraOpeningDays": "ook OPEN op ZONDAG van 10:00 tot 19:00 |\n•\t9 januari 2022\n•\t30 januari 2022",
+        "ExtraClosingDays": "",
+        "Weekdays": [
+          {
+            "Day": "Monday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT20H"
+          },
+          {
+            "Day": "Tuesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT20H"
+          },
+          {
+            "Day": "Wednesday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT20H"
+          },
+          {
+            "Day": "Thursday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT20H"
+          },
+          {
+            "Day": "Friday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT21H"
+          },
+          {
+            "Day": "Saturday",
+            "OpeningTime": "PT10H",
+            "ClosingTime": "PT20H"
+          }
+        ]
+      },
+      "Images": [
+        {
+          "Id": 210,
+          "RelatedId": 5,
+          "Type": "FrontSide",
+          "Url": "https://testimageretrieval.aspos.nl/Store/FrontSide/190520/d4a614be-8fc6-4b30-bcc7-4f33ed644897.jpg"
+        },
+        {
+          "Id": 211,
+          "RelatedId": 5,
+          "Type": "Inside",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Inside/190520/3561bed3-a0cb-4e6d-a85d-3864f40cd06c.jpg"
+        },
+        {
+          "Id": 6384,
+          "RelatedId": 5,
+          "Type": "Logo1",
+          "Url": "https://testimageretrieval.aspos.nl/Store/Logo1/190520/b75bc72b-b28b-4628-804e-eda1ad2dedee.jpg"
+        }
+      ],
+      "Location": {
+        "Latitude": 51.2204101,
+        "Longitude": 4.4539932,
+        "GlobalLocationNumber": "",
+        "DistanceInMeters": 119984
+      },
+      "ExtendedProperties": [
+        {
+          "Name": "gebruik offline",
+          "Value": "True"
+        },
+        {
+          "Name": "uitloggen na transactie",
+          "Value": "True"
+        },
+        {
+          "Name": "toon controlescherm",
+          "Value": "False"
+        },
+        {
+          "Name": "menu enable toggle",
+          "Value": "False"
+        },
+        {
+          "Name": "retour verplicht",
+          "Value": "False"
+        },
+        {
+          "Name": "BlindCount",
+          "Value": "False"
+        },
+        {
+          "Name": "JDSNumber",
+          "Value": "107578"
+        },
+        {
+          "Name": "WebShopDefaultPaymentCode",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefaultShipment",
+          "Value": "0"
+        },
+        {
+          "Name": "CashCountReport",
+          "Value": "54"
+        },
+        {
+          "Name": "POS-NCFontname",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCFontColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroudColor",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCNoPlaylistImage",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefCustomer",
+          "Value": ""
+        },
+        {
+          "Name": "KioskDefDeliveryProduct",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHHomeOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebshopDefWHTakeAwayOrder",
+          "Value": "0"
+        },
+        {
+          "Name": "WebShopDefHomeOrdPaymCode",
+          "Value": "0"
+        },
+        {
+          "Name": "POS-NCLogoImage",
+          "Value": ""
+        },
+        {
+          "Name": "GLN",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBackgroundImage",
+          "Value": ""
+        },
+        {
+          "Name": "POS-NCBarColor",
+          "Value": ""
+        },
+        {
+          "Name": "MailAddressAdministration",
+          "Value": ""
+        },
+        {
+          "Name": "ExternalStoreCode",
+          "Value": ""
+        },
+        {
+          "Name": "CustomerOrderWarehouse",
+          "Value": ""
+        }
+      ],
+      "Type": "Shopping center",
+      "LocationType": "A1"
+    }
+  ],
+  "StoreUrls": {
+    "6": "parfuma-webshop",
+    "33": "parfuma-hove",
+    "4": "parfuma-antwerpen",
+    "13": "skin-expertise-parfuma",
+    "5": "parfuma-wijnegem"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1432 AT",
+          "short_name": "1432 AT",
+          "types": ["postal_code"]
+        },
+        {
+          "long_name": "阿尔斯梅尔",
+          "short_name": "阿尔斯梅尔",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "阿尔斯梅尔",
+          "short_name": "阿尔斯梅尔",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "北荷兰省",
+          "short_name": "NH",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "荷兰",
+          "short_name": "NL",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "荷兰阿尔斯梅尔邮政编码: 1432 AT",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 52.28186280000001,
+            "lng": 4.790199299999999
+          },
+          "southwest": {
+            "lat": 52.2790843,
+            "lng": 4.7831782
+          }
+        },
+        "location": {
+          "lat": 52.2798195,
+          "lng": 4.7850858
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 52.28186280000001,
+            "lng": 4.790199299999999
+          },
+          "southwest": {
+            "lat": 52.2790843,
+            "lng": 4.7831782
+          }
+        }
+      },
+      "place_id": "ChIJpSZQ-pHgxUcREdlTVC-P1a0",
+      "types": ["postal_code"]
+    }
+  ],
+  "status": "OK"
+}

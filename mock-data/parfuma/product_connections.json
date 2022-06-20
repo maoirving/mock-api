@@ -1,0 +1,807 @@
+{
+  "Success": true,
+  "Connections": [
+    {
+      "Id": 72086,
+      "Type": "Interesting",
+      "ProductId": 43504,
+      "ParentProductId": 43501,
+      "StartDate": "2021-09-15T00:00:00.0000000+00:00",
+      "IsActive": true,
+      "Product": {
+        "Id": 43504,
+        "Number": "0001043504",
+        "Description": "BEAUTY DISRUPTED SHAVING BAR ALPINE GLOW",
+        "OnlineDescription": "Shaving Bar Alpine Glow 75g",
+        "PriceInclTax": 15.0,
+        "Brand": {
+          "Id": 231,
+          "Code": "08D",
+          "Description": "BEAUTY DISRUPTED",
+          "Images": [
+            {
+              "Id": 20883,
+              "RelatedId": 231,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 633108,
+          "Code": "3770021584144",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ModelID",
+            "Description": "ModelID",
+            "Value": "BODY CARE"
+          },
+          {
+            "Code": "ParkodProdCode",
+            "Description": "ParkodProdCode",
+            "Value": "P08D68065"
+          },
+          {
+            "Code": "UnitMeasure",
+            "Description": "UnitMeasure",
+            "Value": "Gram"
+          },
+          {
+            "Code": "Groepcode",
+            "Description": "Groepcode",
+            "Value": "02"
+          },
+          {
+            "Code": "Groepnaam",
+            "Description": "Groepnaam",
+            "Value": "BEAUTY"
+          },
+          {
+            "Code": "webshopbanner",
+            "Description": "webshopbanner",
+            "Value": "CleanBeautyLabel"
+          },
+          {
+            "Code": "ExternalLine",
+            "Description": "Collectie",
+            "Value": "Alpine Glow"
+          },
+          {
+            "Code": "ExternalContent",
+            "Description": "Inhoud",
+            "Value": "75 g"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 22900,
+            "RelatedId": 43504,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/ad203e3c-c1f2-479e-a74c-6c93c2489f9a.jpg"
+          },
+          {
+            "Id": 22901,
+            "RelatedId": 43504,
+            "Type": "Image_2",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/8f0946b5-ff12-4583-943d-c0479107bd52.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<p style=\"text-align: justify;\">Deze luxueus schuimende zeepvrije Shaving Bar, bewust vervaardigd in Zuid-Frankrijk, hydrateert en beschermt de huid van top tot teen. Biologische zoete amandelolie uit de Provence, bekend om zijn verzachtende werking op de droge en gevoelige huid, speelt een sleutelrol in deze bar, wat resulteert in gladde en gladde scheerbeurten voor alle geslachten. Een verfrissende 100% biologische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelofelijke Alpen.Beauty Disrupted doneert 20% van de winst van Alpine Glow aan organisaties die gletsjers en bergen beschermen door klimaatverandering tegen te gaan.</p><p style=\"text-align: justify;\">Gebruik:<br />Maak de shaving bar nat en strijk ermee over de natte huid die je wilt scheren. Masseer het intensief hydraterende schuim in de huid in en geniet van dit plasticvrije moment. Bewaar de shaving bar op een droge plek en uit de buurt van stromend water. Voor het scheren van je gezicht, oksels of benen. de gender-neutrale shaving bars zijn geschikt voor het scheren van alle lichaamsdelen. Na het scheren goed afspoelen. Je huid voelt heerlijk glad aan.</p><p style=\"text-align: justify;\">Vegan en cruelty free.</p>"
+          },
+          {
+            "MemoType": "Composition",
+            "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Sodium Methyl Cocoyl Taurate, Kaolin, Parfum (Fragrance), Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Xylitol, Xylitylglucoside, Coconut Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Chloride, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "120265",
+          "Supplier": {
+            "Id": 56,
+            "City": "AMSTELVEEN",
+            "Code": "00055",
+            "CompanyName": "SKINS COSMETICS 14 dagen",
+            "CountryCode": "NL",
+            "DebtorCode": "9332",
+            "Email": "order@skins.nl",
+            "HouseNumber": "3-5",
+            "HouseNumberExtension": "",
+            "PostalCode": "1185ZK",
+            "Street": "PLETTERIJ",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 1.0,
+            "PhysicalStockQuantity": 1.0,
+            "MinimumStockQuantity": 1.0,
+            "MaximumStockQuantity": 1.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    },
+    {
+      "Id": 71835,
+      "Type": "Interesting",
+      "ProductId": 43521,
+      "ParentProductId": 43504,
+      "StartDate": "2021-09-15T00:00:00.0000000+00:00",
+      "IsActive": true,
+      "Product": {
+        "Id": 43521,
+        "Number": "0001043521",
+        "Description": "BEAUTY DISRUPTED SHP BAR NORM. HAIR ALPINE GLOW",
+        "OnlineDescription": "Shampoo Bar Alpine Glow for Normal Hair 100g",
+        "PriceInclTax": 22.0,
+        "Brand": {
+          "Id": 231,
+          "Code": "08D",
+          "Description": "BEAUTY DISRUPTED",
+          "Images": [
+            {
+              "Id": 20883,
+              "RelatedId": 231,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 633173,
+          "Code": "3770021584076",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ModelID",
+            "Description": "ModelID",
+            "Value": "HAIR CARE"
+          },
+          {
+            "Code": "ParkodProdCode",
+            "Description": "ParkodProdCode",
+            "Value": "P08D82018"
+          },
+          {
+            "Code": "UnitMeasure",
+            "Description": "UnitMeasure",
+            "Value": "Gram"
+          },
+          {
+            "Code": "Groepcode",
+            "Description": "Groepcode",
+            "Value": "05"
+          },
+          {
+            "Code": "Groepnaam",
+            "Description": "Groepnaam",
+            "Value": "HAIR CARE"
+          },
+          {
+            "Code": "webshopbanner",
+            "Description": "webshopbanner",
+            "Value": "CleanBeautyLabel"
+          },
+          {
+            "Code": "ExternalLine",
+            "Description": "Collectie",
+            "Value": "Alpine Glow"
+          },
+          {
+            "Code": "ExternalContent",
+            "Description": "Inhoud",
+            "Value": "100 g"
+          },
+          {
+            "Code": "ExternalHairConcern",
+            "Description": "Haarbehoefte",
+            "Value": "Glans – Herstellen"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 22882,
+            "RelatedId": 43521,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/ead8a043-46e4-4fb7-827b-a3774dfd1840.jpg"
+          },
+          {
+            "Id": 22883,
+            "RelatedId": 43521,
+            "Type": "Image_2",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/d81fad28-ab34-45be-9bb6-f59c541a4612.jpg"
+          },
+          {
+            "Id": 22884,
+            "RelatedId": 43521,
+            "Type": "Image_3",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_3/190520/428bcd65-c0b3-4453-87e2-ea1ef741b76e.jpg"
+          },
+          {
+            "Id": 22885,
+            "RelatedId": 43521,
+            "Type": "Image_4",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_4/190520/22dce061-10de-4a2c-b86a-2a33da93a401.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<p style=\"text-align: justify;\">Bewust vervaardigd in Zuid-Frankrijk, maakt deze Shampoo Bar gebruik van de beste ingrediënten van de natuur, waaronder biologische zoete amandelolie en natuurlijke glycerine om zachtjes de hoofdhuid en het haar te reinigen, te voeden en te verwennen.Een verfrissende 100% organische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelooflijke Alpen.Vrij van Plastic, Parabenen, Sulfaten en Siliconen. Dermatologisch getest, veganistisch en wreedheid vrij. Beauty Disrupted geeft 20% van de Alpine Glow winst aan organisaties die bergen en gletsjers beschermen door klimaatverandering tegen te gaan. </p><p style=\"text-align: justify;\">Gebruik:<br />Breng de shampoo bar direct aan op nat haar. Laat opschuimen en masseer van haaraanzet tot haarpunten. Geniet van de 100% biologische geur en laat je meevoeren naar het hart van het regenwoud. Daarna uitspoelen.&nbsp;</p><p style=\"text-align: justify;\">Vrij van Plastic, Parabenen, Sulfaten en Siliconen. Dermatologisch getest, vegan en cruelty free.</p>"
+          },
+          {
+            "MemoType": "Composition",
+            "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Parfum (Fragrance), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Decyl Glucoside, Caesalpinia Spinosa Gum, Kaolin, Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Sodium Cocoyl Apple Amino Acids, Xylitol, Xylitylglucoside, Citric Acid, Potassium Sorbate, Sodium Benzoate, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "120258",
+          "Supplier": {
+            "Id": 56,
+            "City": "AMSTELVEEN",
+            "Code": "00055",
+            "CompanyName": "SKINS COSMETICS 14 dagen",
+            "CountryCode": "NL",
+            "DebtorCode": "9332",
+            "Email": "order@skins.nl",
+            "HouseNumber": "3-5",
+            "HouseNumberExtension": "",
+            "PostalCode": "1185ZK",
+            "Street": "PLETTERIJ",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 2.0,
+            "PhysicalStockQuantity": 2.0,
+            "MinimumStockQuantity": 2.0,
+            "MaximumStockQuantity": 2.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    },
+    {
+      "Id": 71836,
+      "Type": "Interesting",
+      "ProductId": 43522,
+      "ParentProductId": 43504,
+      "StartDate": "2021-09-15T00:00:00.0000000+00:00",
+      "IsActive": true,
+      "Product": {
+        "Id": 43522,
+        "Number": "0001043522",
+        "Description": "BEAUTY DISRUPTED SHP BAR OILY HAIR ALPINE GLOW",
+        "OnlineDescription": "Shampoo Bar Alpine Glow for Oily Hair 100g",
+        "PriceInclTax": 22.0,
+        "Brand": {
+          "Id": 231,
+          "Code": "08D",
+          "Description": "BEAUTY DISRUPTED",
+          "Images": [
+            {
+              "Id": 20883,
+              "RelatedId": 231,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 633176,
+          "Code": "3770021584083",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ModelID",
+            "Description": "ModelID",
+            "Value": "HAIR CARE"
+          },
+          {
+            "Code": "ParkodProdCode",
+            "Description": "ParkodProdCode",
+            "Value": "P08D82019"
+          },
+          {
+            "Code": "UnitMeasure",
+            "Description": "UnitMeasure",
+            "Value": "Gram"
+          },
+          {
+            "Code": "Groepcode",
+            "Description": "Groepcode",
+            "Value": "05"
+          },
+          {
+            "Code": "Groepnaam",
+            "Description": "Groepnaam",
+            "Value": "HAIR CARE"
+          },
+          {
+            "Code": "webshopbanner",
+            "Description": "webshopbanner",
+            "Value": "CleanBeautyLabel"
+          },
+          {
+            "Code": "ExternalLine",
+            "Description": "Collectie",
+            "Value": "Alpine Glow"
+          },
+          {
+            "Code": "ExternalContent",
+            "Description": "Inhoud",
+            "Value": "100 g"
+          },
+          {
+            "Code": "ExternalHairConcern",
+            "Description": "Haarbehoefte",
+            "Value": "Vet Haar – Volume"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 22886,
+            "RelatedId": 43522,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/e45d55e4-32e6-4e55-9fe5-747dd3be20f4.jpg"
+          },
+          {
+            "Id": 22887,
+            "RelatedId": 43522,
+            "Type": "Image_2",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/27171a9d-55d1-4d88-9dda-4e0a7f905bc6.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<p style=\"text-align: justify;\">Deze Shampoo Bar voor vet haar, bewust vervaardigd in Zuid-Frankrijk, maakt gebruik van de beste ingrediënten uit de natuur, waaronder biologische zoete amandelolie en natuurlijke glycerine om overtollige oliën en onzuiverheden op milde wijze te verwijderen, waardoor het haar licht en fris aanvoelt.Een verfrissende 100% organische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelooflijke Alpen.Vrij van Plastic, Parabenen, Sulfaten en Siliconen. Dermatologisch getest, veganistisch en wreedheid vrij. Beauty Disrupted geeft 20% van de Alpine Glow winst aan organisaties die bergen en gletsjers beschermen door klimaatverandering tegen te gaan. </p><p style=\"text-align: justify;\">Gebruik:<br />Breng de shampoo bar direct aan op nat haar. Laat opschuimen en masseer van haaraanzet tot haarpunten. Geniet van de 100% biologische geur en laat je meevoeren naar het hart van het regenwoud. Daarna uitspoelen.&nbsp;</p><p style=\"text-align: justify;\">Vrij van Plastic, Parabenen, Sulfaten en Siliconen. Dermatologisch getest, vegan en cruelty free.</p>"
+          },
+          {
+            "MemoType": "Composition",
+            "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Parfum (Fragrance), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Decyl Glucoside, Caesalpinia Spinosa Gum, Kaolin, Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Sodium Cocoyl Apple Amino Acids, Xylitol, Xylitylglucoside, Citric Acid, Potassium Sorbate, Sodium Benzoate, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "120259",
+          "Supplier": {
+            "Id": 56,
+            "City": "AMSTELVEEN",
+            "Code": "00055",
+            "CompanyName": "SKINS COSMETICS 14 dagen",
+            "CountryCode": "NL",
+            "DebtorCode": "9332",
+            "Email": "order@skins.nl",
+            "HouseNumber": "3-5",
+            "HouseNumberExtension": "",
+            "PostalCode": "1185ZK",
+            "Street": "PLETTERIJ",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 1.0,
+            "PhysicalStockQuantity": 1.0,
+            "MinimumStockQuantity": 1.0,
+            "MaximumStockQuantity": 1.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    },
+    {
+      "Id": 72302,
+      "Type": "Interesting",
+      "ProductId": 43504,
+      "ParentProductId": 43507,
+      "StartDate": "2021-09-15T00:00:00.0000000+00:00",
+      "IsActive": true,
+      "Product": {
+        "Id": 43504,
+        "Number": "0001043504",
+        "Description": "BEAUTY DISRUPTED SHAVING BAR ALPINE GLOW",
+        "OnlineDescription": "Shaving Bar Alpine Glow 75g",
+        "PriceInclTax": 15.0,
+        "Brand": {
+          "Id": 231,
+          "Code": "08D",
+          "Description": "BEAUTY DISRUPTED",
+          "Images": [
+            {
+              "Id": 20883,
+              "RelatedId": 231,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 633108,
+          "Code": "3770021584144",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ModelID",
+            "Description": "ModelID",
+            "Value": "BODY CARE"
+          },
+          {
+            "Code": "ParkodProdCode",
+            "Description": "ParkodProdCode",
+            "Value": "P08D68065"
+          },
+          {
+            "Code": "UnitMeasure",
+            "Description": "UnitMeasure",
+            "Value": "Gram"
+          },
+          {
+            "Code": "Groepcode",
+            "Description": "Groepcode",
+            "Value": "02"
+          },
+          {
+            "Code": "Groepnaam",
+            "Description": "Groepnaam",
+            "Value": "BEAUTY"
+          },
+          {
+            "Code": "webshopbanner",
+            "Description": "webshopbanner",
+            "Value": "CleanBeautyLabel"
+          },
+          {
+            "Code": "ExternalLine",
+            "Description": "Collectie",
+            "Value": "Alpine Glow"
+          },
+          {
+            "Code": "ExternalContent",
+            "Description": "Inhoud",
+            "Value": "75 g"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 22900,
+            "RelatedId": 43504,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/ad203e3c-c1f2-479e-a74c-6c93c2489f9a.jpg"
+          },
+          {
+            "Id": 22901,
+            "RelatedId": 43504,
+            "Type": "Image_2",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/8f0946b5-ff12-4583-943d-c0479107bd52.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<p style=\"text-align: justify;\">Deze luxueus schuimende zeepvrije Shaving Bar, bewust vervaardigd in Zuid-Frankrijk, hydrateert en beschermt de huid van top tot teen. Biologische zoete amandelolie uit de Provence, bekend om zijn verzachtende werking op de droge en gevoelige huid, speelt een sleutelrol in deze bar, wat resulteert in gladde en gladde scheerbeurten voor alle geslachten. Een verfrissende 100% biologische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelofelijke Alpen.Beauty Disrupted doneert 20% van de winst van Alpine Glow aan organisaties die gletsjers en bergen beschermen door klimaatverandering tegen te gaan.</p><p style=\"text-align: justify;\">Gebruik:<br />Maak de shaving bar nat en strijk ermee over de natte huid die je wilt scheren. Masseer het intensief hydraterende schuim in de huid in en geniet van dit plasticvrije moment. Bewaar de shaving bar op een droge plek en uit de buurt van stromend water. Voor het scheren van je gezicht, oksels of benen. de gender-neutrale shaving bars zijn geschikt voor het scheren van alle lichaamsdelen. Na het scheren goed afspoelen. Je huid voelt heerlijk glad aan.</p><p style=\"text-align: justify;\">Vegan en cruelty free.</p>"
+          },
+          {
+            "MemoType": "Composition",
+            "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Sodium Methyl Cocoyl Taurate, Kaolin, Parfum (Fragrance), Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Xylitol, Xylitylglucoside, Coconut Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Chloride, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "120265",
+          "Supplier": {
+            "Id": 56,
+            "City": "AMSTELVEEN",
+            "Code": "00055",
+            "CompanyName": "SKINS COSMETICS 14 dagen",
+            "CountryCode": "NL",
+            "DebtorCode": "9332",
+            "Email": "order@skins.nl",
+            "HouseNumber": "3-5",
+            "HouseNumberExtension": "",
+            "PostalCode": "1185ZK",
+            "Street": "PLETTERIJ",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 1.0,
+            "PhysicalStockQuantity": 1.0,
+            "MinimumStockQuantity": 1.0,
+            "MaximumStockQuantity": 1.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    },
+    {
+      "Id": 72308,
+      "Type": "Interesting",
+      "ProductId": 43504,
+      "ParentProductId": 43513,
+      "StartDate": "2021-09-15T00:00:00.0000000+00:00",
+      "IsActive": true,
+      "Product": {
+        "Id": 43504,
+        "Number": "0001043504",
+        "Description": "BEAUTY DISRUPTED SHAVING BAR ALPINE GLOW",
+        "OnlineDescription": "Shaving Bar Alpine Glow 75g",
+        "PriceInclTax": 15.0,
+        "Brand": {
+          "Id": 231,
+          "Code": "08D",
+          "Description": "BEAUTY DISRUPTED",
+          "Images": [
+            {
+              "Id": 20883,
+              "RelatedId": 231,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 633108,
+          "Code": "3770021584144",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ModelID",
+            "Description": "ModelID",
+            "Value": "BODY CARE"
+          },
+          {
+            "Code": "ParkodProdCode",
+            "Description": "ParkodProdCode",
+            "Value": "P08D68065"
+          },
+          {
+            "Code": "UnitMeasure",
+            "Description": "UnitMeasure",
+            "Value": "Gram"
+          },
+          {
+            "Code": "Groepcode",
+            "Description": "Groepcode",
+            "Value": "02"
+          },
+          {
+            "Code": "Groepnaam",
+            "Description": "Groepnaam",
+            "Value": "BEAUTY"
+          },
+          {
+            "Code": "webshopbanner",
+            "Description": "webshopbanner",
+            "Value": "CleanBeautyLabel"
+          },
+          {
+            "Code": "ExternalLine",
+            "Description": "Collectie",
+            "Value": "Alpine Glow"
+          },
+          {
+            "Code": "ExternalContent",
+            "Description": "Inhoud",
+            "Value": "75 g"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 22900,
+            "RelatedId": 43504,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/ad203e3c-c1f2-479e-a74c-6c93c2489f9a.jpg"
+          },
+          {
+            "Id": 22901,
+            "RelatedId": 43504,
+            "Type": "Image_2",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/8f0946b5-ff12-4583-943d-c0479107bd52.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<p style=\"text-align: justify;\">Deze luxueus schuimende zeepvrije Shaving Bar, bewust vervaardigd in Zuid-Frankrijk, hydrateert en beschermt de huid van top tot teen. Biologische zoete amandelolie uit de Provence, bekend om zijn verzachtende werking op de droge en gevoelige huid, speelt een sleutelrol in deze bar, wat resulteert in gladde en gladde scheerbeurten voor alle geslachten. Een verfrissende 100% biologische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelofelijke Alpen.Beauty Disrupted doneert 20% van de winst van Alpine Glow aan organisaties die gletsjers en bergen beschermen door klimaatverandering tegen te gaan.</p><p style=\"text-align: justify;\">Gebruik:<br />Maak de shaving bar nat en strijk ermee over de natte huid die je wilt scheren. Masseer het intensief hydraterende schuim in de huid in en geniet van dit plasticvrije moment. Bewaar de shaving bar op een droge plek en uit de buurt van stromend water. Voor het scheren van je gezicht, oksels of benen. de gender-neutrale shaving bars zijn geschikt voor het scheren van alle lichaamsdelen. Na het scheren goed afspoelen. Je huid voelt heerlijk glad aan.</p><p style=\"text-align: justify;\">Vegan en cruelty free.</p>"
+          },
+          {
+            "MemoType": "Composition",
+            "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Sodium Methyl Cocoyl Taurate, Kaolin, Parfum (Fragrance), Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Xylitol, Xylitylglucoside, Coconut Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Chloride, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "120265",
+          "Supplier": {
+            "Id": 56,
+            "City": "AMSTELVEEN",
+            "Code": "00055",
+            "CompanyName": "SKINS COSMETICS 14 dagen",
+            "CountryCode": "NL",
+            "DebtorCode": "9332",
+            "Email": "order@skins.nl",
+            "HouseNumber": "3-5",
+            "HouseNumberExtension": "",
+            "PostalCode": "1185ZK",
+            "Street": "PLETTERIJ",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 1.0,
+            "PhysicalStockQuantity": 1.0,
+            "MinimumStockQuantity": 1.0,
+            "MaximumStockQuantity": 1.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    },
+    {
+      "Id": 71841,
+      "Type": "Interesting",
+      "ProductId": 43504,
+      "ParentProductId": 43520,
+      "StartDate": "2021-09-15T00:00:00.0000000+00:00",
+      "IsActive": true,
+      "Product": {
+        "Id": 43504,
+        "Number": "0001043504",
+        "Description": "BEAUTY DISRUPTED SHAVING BAR ALPINE GLOW",
+        "OnlineDescription": "Shaving Bar Alpine Glow 75g",
+        "PriceInclTax": 15.0,
+        "Brand": {
+          "Id": 231,
+          "Code": "08D",
+          "Description": "BEAUTY DISRUPTED",
+          "Images": [
+            {
+              "Id": 20883,
+              "RelatedId": 231,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 633108,
+          "Code": "3770021584144",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ModelID",
+            "Description": "ModelID",
+            "Value": "BODY CARE"
+          },
+          {
+            "Code": "ParkodProdCode",
+            "Description": "ParkodProdCode",
+            "Value": "P08D68065"
+          },
+          {
+            "Code": "UnitMeasure",
+            "Description": "UnitMeasure",
+            "Value": "Gram"
+          },
+          {
+            "Code": "Groepcode",
+            "Description": "Groepcode",
+            "Value": "02"
+          },
+          {
+            "Code": "Groepnaam",
+            "Description": "Groepnaam",
+            "Value": "BEAUTY"
+          },
+          {
+            "Code": "webshopbanner",
+            "Description": "webshopbanner",
+            "Value": "CleanBeautyLabel"
+          },
+          {
+            "Code": "ExternalLine",
+            "Description": "Collectie",
+            "Value": "Alpine Glow"
+          },
+          {
+            "Code": "ExternalContent",
+            "Description": "Inhoud",
+            "Value": "75 g"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 22900,
+            "RelatedId": 43504,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/ad203e3c-c1f2-479e-a74c-6c93c2489f9a.jpg"
+          },
+          {
+            "Id": 22901,
+            "RelatedId": 43504,
+            "Type": "Image_2",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/8f0946b5-ff12-4583-943d-c0479107bd52.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<p style=\"text-align: justify;\">Deze luxueus schuimende zeepvrije Shaving Bar, bewust vervaardigd in Zuid-Frankrijk, hydrateert en beschermt de huid van top tot teen. Biologische zoete amandelolie uit de Provence, bekend om zijn verzachtende werking op de droge en gevoelige huid, speelt een sleutelrol in deze bar, wat resulteert in gladde en gladde scheerbeurten voor alle geslachten. Een verfrissende 100% biologische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelofelijke Alpen.Beauty Disrupted doneert 20% van de winst van Alpine Glow aan organisaties die gletsjers en bergen beschermen door klimaatverandering tegen te gaan.</p><p style=\"text-align: justify;\">Gebruik:<br />Maak de shaving bar nat en strijk ermee over de natte huid die je wilt scheren. Masseer het intensief hydraterende schuim in de huid in en geniet van dit plasticvrije moment. Bewaar de shaving bar op een droge plek en uit de buurt van stromend water. Voor het scheren van je gezicht, oksels of benen. de gender-neutrale shaving bars zijn geschikt voor het scheren van alle lichaamsdelen. Na het scheren goed afspoelen. Je huid voelt heerlijk glad aan.</p><p style=\"text-align: justify;\">Vegan en cruelty free.</p>"
+          },
+          {
+            "MemoType": "Composition",
+            "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Sodium Methyl Cocoyl Taurate, Kaolin, Parfum (Fragrance), Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Xylitol, Xylitylglucoside, Coconut Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Chloride, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "120265",
+          "Supplier": {
+            "Id": 56,
+            "City": "AMSTELVEEN",
+            "Code": "00055",
+            "CompanyName": "SKINS COSMETICS 14 dagen",
+            "CountryCode": "NL",
+            "DebtorCode": "9332",
+            "Email": "order@skins.nl",
+            "HouseNumber": "3-5",
+            "HouseNumberExtension": "",
+            "PostalCode": "1185ZK",
+            "Street": "PLETTERIJ",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 1.0,
+            "PhysicalStockQuantity": 1.0,
+            "MinimumStockQuantity": 1.0,
+            "MaximumStockQuantity": 1.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    }
+  ],
+  "ProductUrls": {
+    "43504": "shaving-bar-alpine-glow-75g-0001043504",
+    "43521": "shampoo-bar-alpine-glow-for-normal-hair-100g-0001043521",
+    "43522": "shampoo-bar-alpine-glow-for-oily-hair-100g-0001043522"
+  },
+  "Total": 6
+}

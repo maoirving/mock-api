@@ -1,0 +1,203 @@
+{
+  "Success": true,
+  "WebNode": {
+    "Id": 354,
+    "Code": "SCHEREN",
+    "HasProducts": true,
+    "BigImageLink": "",
+    "SmallImageLink": "",
+    "SeoTitle": "Heren: Scheren",
+    "Description": "Heren: Scheren",
+    "SortOrder": 1,
+    "Url": "gelaat/herenverzorging/heren-scheren",
+    "Ancestors": [
+      {
+        "Id": 30,
+        "Code": "Gezichtsverzorging",
+        "HasProducts": false,
+        "BigImageLink": "",
+        "SmallImageLink": "https://imagestoreretrieval.aspos.nl/WebNode/Small/190520/e7093d60-9b77-494f-877a-b959986401fb.jpg",
+        "SeoTitle": "Gezichtsverzorging",
+        "Description": "Gelaat",
+        "SortOrder": 7,
+        "Url": "gelaat",
+        "Children": []
+      },
+      {
+        "Id": 56,
+        "Code": "Herenverzorging",
+        "HasProducts": false,
+        "BigImageLink": "",
+        "SmallImageLink": "",
+        "SeoTitle": "Gezichtsverzorging voor mannen",
+        "Description": "Herenverzorging",
+        "SortOrder": 11,
+        "Url": "gelaat/herenverzorging",
+        "Children": []
+      }
+    ],
+    "Children": []
+  },
+  "HasWebnode": true,
+  "Product": {
+    "Id": 43504,
+    "State": "Active",
+    "Type": "Product",
+    "Number": "0001043504",
+    "Description": "BEAUTY DISRUPTED SHAVING BAR ALPINE GLOW",
+    "OnlineDescription": "Shaving Bar Alpine Glow 75g",
+    "PriceInclTax": 15.0,
+    "PriceExclTax": 12.3967,
+    "ListPrice": 15.0,
+    "SizeCode": "75 GR",
+    "SizeDescription": "75 GR",
+    "Content": 75.0,
+    "ContentType": "GR",
+    "BonusPoints": 0,
+    "BonusPointsAllowed": true,
+    "BrandId": 231,
+    "GroupId": 13,
+    "SubGroupId": 180,
+    "HasActiveWebNodes": true,
+    "DefaultScanCodeId": 633108,
+    "TaxRate": 21.0,
+    "PreferredProductSupplierId": 83529,
+    "PurchasePrice": 7.44,
+    "PurchaseUnit": "Stuk",
+    "PurchaseUnitFactor": 1.0,
+    "DiscountAllowed": true,
+    "StoreId": 1,
+    "PriceType": "Standaard",
+    "SalesUnit": "Stuk",
+    "SerialUsage": "None",
+    "DefaultOrderQuantity": 1.0,
+    "IsValidated": true,
+    "TaxCodeId": 3,
+    "ActiveWebNodes": [
+      {
+        "Id": 354,
+        "Description": "Heren: Scheren"
+      },
+      {
+        "Id": 371,
+        "Description": "Douche Gel"
+      },
+      {
+        "Id": 1067,
+        "Description": "BEAUTY DISRUPTED"
+      },
+      {
+        "Id": 1088,
+        "Description": "HAPPY VALENTINE"
+      }
+    ],
+    "Brand": {
+      "Id": 231,
+      "Code": "08D",
+      "Description": "BEAUTY DISRUPTED",
+      "Images": [
+        {
+          "Id": 20883,
+          "RelatedId": 231,
+          "Type": "Front",
+          "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/190520/e60c42c0-0df4-4229-8f16-78bdf5eea082.jpg"
+        }
+      ]
+    },
+    "DefaultScanCode": {
+      "Id": 633108,
+      "Code": "3770021584144",
+      "Quantity": 1.0
+    },
+    "Discounts": [],
+    "Fields": [
+      {
+        "Code": "ModelID",
+        "Description": "ModelID",
+        "Value": "BODY CARE"
+      },
+      {
+        "Code": "ParkodProdCode",
+        "Description": "ParkodProdCode",
+        "Value": "P08D68065"
+      },
+      {
+        "Code": "UnitMeasure",
+        "Description": "UnitMeasure",
+        "Value": "Gram"
+      },
+      {
+        "Code": "Groepcode",
+        "Description": "Groepcode",
+        "Value": "02"
+      },
+      {
+        "Code": "Groepnaam",
+        "Description": "Groepnaam",
+        "Value": "BEAUTY"
+      },
+      {
+        "Code": "webshopbanner",
+        "Description": "webshopbanner",
+        "Value": "CleanBeautyLabel"
+      },
+      {
+        "Code": "ExternalLine",
+        "Description": "Collectie",
+        "Value": "Alpine Glow"
+      },
+      {
+        "Code": "ExternalContent",
+        "Description": "Inhoud",
+        "Value": "75 g"
+      }
+    ],
+    "Group": {},
+    "Images": [
+      {
+        "Id": 22900,
+        "RelatedId": 43504,
+        "Type": "Front",
+        "Url": "https://testimageretrieval.aspos.nl/Product/Front/190520/ad203e3c-c1f2-479e-a74c-6c93c2489f9a.jpg"
+      },
+      {
+        "Id": 22901,
+        "RelatedId": 43504,
+        "Type": "Image_2",
+        "Url": "https://testimageretrieval.aspos.nl/Product/Image_2/190520/8f0946b5-ff12-4583-943d-c0479107bd52.jpg"
+      }
+    ],
+    "Kits": [],
+    "Memos": [
+      {
+        "MemoType": "InternetMemo",
+        "Text": "<p style=\"text-align: justify;\">Deze luxueus schuimende zeepvrije Shaving Bar, bewust vervaardigd in Zuid-Frankrijk, hydrateert en beschermt de huid van top tot teen. Biologische zoete amandelolie uit de Provence, bekend om zijn verzachtende werking op de droge en gevoelige huid, speelt een sleutelrol in deze bar, wat resulteert in gladde en gladde scheerbeurten voor alle geslachten. Een verfrissende 100% biologische mix van eucalyptus, rozemarijn en dennenboom roept herinneringen op aan het doorkruisen van de ongelofelijke Alpen.Beauty Disrupted doneert 20% van de winst van Alpine Glow aan organisaties die gletsjers en bergen beschermen door klimaatverandering tegen te gaan.</p><p style=\"text-align: justify;\">Gebruik:<br />Maak de shaving bar nat en strijk ermee over de natte huid die je wilt scheren. Masseer het intensief hydraterende schuim in de huid in en geniet van dit plasticvrije moment. Bewaar de shaving bar op een droge plek en uit de buurt van stromend water. Voor het scheren van je gezicht, oksels of benen. de gender-neutrale shaving bars zijn geschikt voor het scheren van alle lichaamsdelen. Na het scheren goed afspoelen. Je huid voelt heerlijk glad aan.</p><p style=\"text-align: justify;\">Vegan en cruelty free.</p>"
+      },
+      {
+        "MemoType": "Composition",
+        "Text": "Hydrogenated Vegetable Oil, Sodium Cocoyl Isethionate, Aqua (Water), Polyglyceryl-4 Laurate, Glycerin, Sodium Methyl Cocoyl Taurate, Kaolin, Parfum (Fragrance), Anhydroxylitol, Glucose, Pinus Sylvestris Bud Extract, Xylitol, Xylitylglucoside, Coconut Acid, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sodium Chloride, Tetrasodium Glutamate Diacetate, Limonene, Linalool."
+      }
+    ],
+    "PreferredProductSupplier": {
+      "SupplierProductCode": "120265",
+      "Supplier": {
+        "Id": 56,
+        "City": "AMSTELVEEN",
+        "Code": "00055",
+        "CompanyName": "SKINS COSMETICS 14 dagen",
+        "CountryCode": "NL",
+        "DebtorCode": "9332",
+        "Email": "order@skins.nl",
+        "HouseNumber": "3-5",
+        "HouseNumberExtension": "",
+        "PostalCode": "1185ZK",
+        "Street": "PLETTERIJ",
+        "Website": ""
+      }
+    },
+    "StockInfo": []
+  },
+  "ExtraFields": {
+    "Rating": 3.2
+  }
+}
