@@ -1,0 +1,1665 @@
+{
+  "Products": [
+    {
+      "BrandName": "Knauf",
+      "Content": 1.0,
+      "ContentID": "zak",
+      "DefaultImageUrl": "https://cdn.bouwmaat.nl/Product/Front/150914/676973FA-7566-4D5B-B472-73EF2872AE98.jpg",
+      "DiscountPrice": 0,
+      "DiscountPriceExclVAT": 0,
+      "LowestMeerMinderPriceInclVAT": 8.09,
+      "LowestMeerMinderPriceExclVAT": 6.69,
+      "LowestMeerMinderQuantity": 45,
+      "HasAction": false,
+      "HasDiscount": false,
+      "IsOrderable": true,
+      "PriceExclVAT": 7.2,
+      "PriceInclVAT": 8.71,
+      "ProductDescription": "Knauf Machinepleister MP75 25 kg",
+      "ProductID": "30098",
+      "ProductMemo": "Knauf Machinepleister MP75 25 kg  Knauf Machinepleister MP 75 is al meer dan 40 jaar de meest gebruikte stukadoors gips in Nederland. Knauf MP 75 is een machinepleister voor verwerking in één laag met een gipsspuitmachine. Met MP 75 krijg je een mooi glad eindresultaat door de fijne vulstoffen. Je kunt MP 75 gebruiken op alle steenachtige wanden en plafonds binnen. Zelfs in keukens en badkamers in woningen. Deze gipspleister is ideaal voor het stukadoren van stucplaten en Stucanet. Knauf MP 75 heeft een hoge opbrengst en een lange verwerkingstijd. En is geschikt voor laagdiktes vanaf 10 mm.  Stukadoren en glad stucwerk voor extra grote oppervlaktes Ideaal voor machinale verwerking Verwerkingstijd circa 120 minuten Laagdikte vanaf 10 mm tot 30 mm Opbrengst per verpakking 3 m2 bij 10 mm laagdikte TIP: Natte ruimte? Gebruik AquaStuc gipspleister   10 jaar garantie wanneer het product verwerkt wordt volgens de richtlijnen van KnaufZeker",
+      "ProductNumber": "0000347547",
+      "ProductNumberTrimmed": "347547",
+      "StockLevel": 0,
+      "StockQuantity": 0,
+      "MaxOrderableQuantity": 0,
+      "ProductDetailPageRelativeURL": "knauf-machinepleister-mp75-25-kg/product/0000347547",
+      "DeliveryType": "bm",
+      "Probability": 0.726,
+      "ProductDiscounts": [
+        {
+          "TicketDescription": "Meer=Minder"
+        }
+      ],
+      "IsActiveInt": 1,
+      "CategoryCodeID": "",
+      "Category": "",
+      "IsActive": true,
+      "OpIsOp": false,
+      "DeliveryEstimate": "twothreedays",
+      "AsposProduct": {
+        "Id": 30098,
+        "State": "Active",
+        "Type": "Product",
+        "Number": "0000347547",
+        "Description": "Knauf Machinepleister MP75 25 kg",
+        "SecondDescription": "",
+        "OnlineDescription": "Knauf Machinepleister MP75 25 kg",
+        "AssortimentCode": "1",
+        "AssortimentDescription": "1",
+        "PriceInclTax": 8.712,
+        "PriceExclTax": 7.2,
+        "ListPrice": 8.712,
+        "Location": "kof-fie-0010",
+        "Content": 25.0,
+        "ContentType": "KG",
+        "BonusPoints": 0,
+        "BonusPointsAllowed": true,
+        "BrandId": 348,
+        "GroupId": 38,
+        "SubGroupId": 292,
+        "HasActiveWebNodes": true,
+        "DefaultScanCodeId": 43664,
+        "TaxRate": 21.0,
+        "PreferredProductSupplierId": 2034,
+        "PurchasePrice": 6.31,
+        "PurchaseUnit": "Zak",
+        "PurchaseUnitFactor": 45.0,
+        "DiscountAllowed": true,
+        "CategoryGroupId": 2472,
+        "StoreId": 1,
+        "PriceType": "Standaard",
+        "SalesUnit": "Zak",
+        "SerialUsage": "None",
+        "LabelKind": "Schaplabel",
+        "DefaultOrderQuantity": 1.0,
+        "AttentionMemo": "",
+        "IsValidated": false,
+        "BestBeforeProduct": false,
+        "TaxCodeId": 3,
+        "Margin": 0.0,
+        "DefaultLabelTypeId": 21,
+        "ActiveWebNodes": [
+          {
+            "Id": 5431,
+            "Description": "Gipsgebonden basispleisters"
+          }
+        ],
+        "Brand": {
+          "Id": 348,
+          "Code": "Knauf",
+          "Description": "Knauf",
+          "Images": [
+            {
+              "Id": 47101,
+              "RelatedId": 348,
+              "Type": "Big",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Big/150914/79b205db-e837-4f0f-8e79-9e4a923fdc05.jpg"
+            },
+            {
+              "Id": 47102,
+              "RelatedId": 348,
+              "Type": "Small",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Small/150914/ea2a87c2-a9cc-4927-9494-5a72e05e6c07.jpg"
+            },
+            {
+              "Id": 83699,
+              "RelatedId": 348,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/150914/958aadf7-0e2e-46b5-bbe5-3bf521b61d2d.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 43664,
+          "Code": "5413503014026",
+          "Quantity": 1.0
+        },
+        "Discounts": [
+          {
+            "Id": 31952,
+            "Description": "BULKPROMOTION",
+            "TicketDescription": "Meer=Minder",
+            "StartDate": "2020-12-28T00:00:00.0000000+00:00",
+            "StartTime": "PT0S",
+            "EndDate": "2050-12-31T00:00:00.0000000+00:00",
+            "EndTime": "PT23H59M",
+            "DiscountCategory": "Product",
+            "IsActive": true,
+            "Images": [],
+            "PriceList": {
+              "Id": 1,
+              "Description": "Standaard"
+            }
+          }
+        ],
+        "Fields": [
+          {
+            "Code": "ALLOWPRODUCTCHANGE",
+            "Description": "AllowProductChange",
+            "Value": "no"
+          },
+          {
+            "Code": "DELIVERYTYPE",
+            "Description": "Bezorgingstype",
+            "Value": "BM"
+          },
+          {
+            "Code": "BulkPromotion",
+            "Description": "BulkPromotion",
+            "Value": "Ja"
+          },
+          {
+            "Code": "DELIVERYCOSTCAT",
+            "Description": "Verzendkosten Categorie",
+            "Value": "Grootgoed"
+          },
+          {
+            "Code": "BulkQuantity",
+            "Description": "BulkQuantity",
+            "Value": "45"
+          },
+          {
+            "Code": "DailyPrice",
+            "Description": "DailyPrice",
+            "Value": "true"
+          },
+          {
+            "Code": "ItemType",
+            "Description": "ItemType",
+            "Value": "1"
+          },
+          {
+            "Code": "NewAtBouwmaat",
+            "Description": "NewAtBouwmaat",
+            "Value": "true"
+          },
+          {
+            "Code": "OrderabelInWebshop",
+            "Description": "OrderabelInWebshop",
+            "Value": "true"
+          },
+          {
+            "Code": "CompBulkPrice",
+            "Description": "CompBulkPrice",
+            "Value": "0"
+          },
+          {
+            "Code": "CompPrice",
+            "Description": "CompPrice",
+            "Value": "0"
+          },
+          {
+            "Code": "PalletItem",
+            "Description": "PalletItem",
+            "Value": "true"
+          },
+          {
+            "Code": "QtyOnPallet",
+            "Description": "QtyOnPallet",
+            "Value": "45"
+          },
+          {
+            "Code": "DeliveryCostProductID",
+            "Description": "DeliveryCostProductID",
+            "Value": "0000552074"
+          },
+          {
+            "Code": "LongTail",
+            "Description": "LongTail",
+            "Value": "false"
+          },
+          {
+            "Code": "Ranking",
+            "Description": "Ranking",
+            "Value": "2"
+          },
+          {
+            "Code": "Synoniemen",
+            "Description": "Synoniemen",
+            "Value": "Knauf Zeker, KnaufZeker"
+          },
+          {
+            "Code": "Variant",
+            "Description": "Variant",
+            "Value": "Gipspleister MP75"
+          },
+          {
+            "Code": "Functionele naam",
+            "Description": "Functionele naam",
+            "Value": "Pleister"
+          },
+          {
+            "Code": "Netto inhoud",
+            "Description": "Netto inhoud",
+            "Value": "25 KG"
+          },
+          {
+            "Code": "Droogtijd",
+            "Description": "Droogtijd",
+            "Value": "7 hour"
+          },
+          {
+            "Code": "Toepassing",
+            "Description": "Toepassing",
+            "Value": "Stuken van wand en plafond"
+          },
+          {
+            "Code": "Kleurfamilie",
+            "Description": "Kleurfamilie",
+            "Value": "Wit"
+          },
+          {
+            "Code": "Gemiddelde korrelgrootte",
+            "Description": "Gemiddelde korrelgrootte",
+            "Value": "1.2 millimeter"
+          },
+          {
+            "Code": "Indicatie BENOR keurmerk",
+            "Description": "Indicatie BENOR keurmerk",
+            "Value": "Nee"
+          },
+          {
+            "Code": "Ruimte buiten",
+            "Description": "Ruimte buiten",
+            "Value": "Binnen"
+          },
+          {
+            "Code": "Materiaal van doeloppervlak",
+            "Description": "Materiaal van doeloppervlak",
+            "Value": "Gipsplaat"
+          },
+          {
+            "Code": "Duurtijd garantie",
+            "Description": "Duurtijd garantie",
+            "Value": "3650 dagen"
+          },
+          {
+            "Code": "Kleurcode",
+            "Description": "Kleurcode",
+            "Value": "Wit"
+          },
+          {
+            "Code": "Netto gewicht",
+            "Description": "Netto gewicht",
+            "Value": "25 KG"
+          },
+          {
+            "Code": "Uitgehard na",
+            "Description": "Uitgehard na",
+            "Value": "200 minute (time unit)"
+          },
+          {
+            "Code": "Rendement per verpakking",
+            "Description": "Rendement per verpakking",
+            "Value": "3 M2"
+          },
+          {
+            "Code": "Breedte van het vermelde type",
+            "Description": "Breedte van het vermelde type",
+            "Value": "36 millimeter"
+          },
+          {
+            "Code": "Diepte van het vermelde type",
+            "Description": "Diepte van het vermelde type",
+            "Value": "12 millimeter"
+          },
+          {
+            "Code": "Hoogte van het vermelde type",
+            "Description": "Hoogte van het vermelde type",
+            "Value": "55 millimeter"
+          },
+          {
+            "Code": "Type structuur",
+            "Description": "Type structuur",
+            "Value": "Vlak"
+          },
+          {
+            "Code": "Stof droog na",
+            "Description": "Stof droog na",
+            "Value": "200 hour"
+          },
+          {
+            "Code": "Rendement condities",
+            "Description": "Rendement condities",
+            "Value": "Bij laagdikte van 10 mm"
+          },
+          {
+            "Code": "Type pleister",
+            "Description": "Type pleister",
+            "Value": "Machinepleister"
+          },
+          {
+            "Code": "LabelPrijsEenheidKlein",
+            "Description": "LabelPrijsEenheidKlein",
+            "Value": "prijs per KG 0.29"
+          },
+          {
+            "Code": "LabelEenheidGroot",
+            "Description": "LabelEenheidGroot",
+            "Value": "per stuk"
+          },
+          {
+            "Code": "LabelPrijsGroot",
+            "Description": "LabelPrijsGroot",
+            "Value": "7.20"
+          },
+          {
+            "Code": "IndicatorCompact",
+            "Description": "IndicatorCompact",
+            "Value": "true"
+          },
+          {
+            "Code": "TriggerLabel",
+            "Description": "TriggerLabel",
+            "Value": "20200430"
+          },
+          {
+            "Code": "HoogstePrijsEenheidStaffel",
+            "Description": "HoogstePrijsEenheidStaffel",
+            "Value": "45 voor 6.69 per stuk"
+          },
+          {
+            "Code": "MinQtyOnPallet",
+            "Description": "MinQtyOnPallet",
+            "Value": "20"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 8643,
+            "RelatedId": 30098,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/150914/676973fa-7566-4d5b-b472-73ef2872ae98.jpg"
+          },
+          {
+            "Id": 18678,
+            "RelatedId": 30098,
+            "Type": "Standard image_02",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Standard image_02/150914/15a573ea-2f73-428a-b43a-05809bdd6ed0.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<div><strong>Knauf Machinepleister MP75 25 kg</strong></div>\r\n<br />\r\n<div>Knauf Machinepleister MP 75 is al meer dan 40 jaar de meest gebruikte stukadoors gips in Nederland.<br />\r\nKnauf MP 75 is een machinepleister voor verwerking in &eacute;&eacute;n laag met een gipsspuitmachine. Met MP 75 krijg je een mooi glad eindresultaat door de fijne vulstoffen. Je kunt MP 75 gebruiken op alle steenachtige wanden en plafonds binnen. Zelfs in keukens en badkamers in woningen. Deze gipspleister is ideaal voor het stukadoren van stucplaten en Stucanet. Knauf MP 75 heeft een hoge opbrengst en een lange verwerkingstijd. En is geschikt voor laagdiktes vanaf 10 mm.\r\n<ul>\r\n    <li>Stukadoren en glad stucwerk voor extra grote oppervlaktes</li>\r\n    <li>Ideaal voor machinale verwerking</li>\r\n    <li>Verwerkingstijd circa 120 minuten</li>\r\n    <li>Laagdikte vanaf 10 mm tot 30 mm</li>\r\n    <li>Opbrengst per verpakking 3 m2 bij 10 mm laagdikte</li>\r\n    <li>TIP: Natte ruimte? Gebruik AquaStuc gipspleister</li>\r\n</ul>\r\n<br />\r\n10 jaar garantie wanneer het product verwerkt wordt volgens de richtlijnen van KnaufZeker</div>",
+            "FileName": "VIB_Knauf_MP75.pdf"
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "23971",
+          "Supplier": {
+            "Id": 8884,
+            "City": "UTRECHT",
+            "Code": "KNAUF",
+            "CompanyName": "Knauf B.V.",
+            "CountryCode": "NL",
+            "DebtorCode": "KNAUF",
+            "Email": "vb@knauf.nl",
+            "HouseNumber": "8",
+            "HouseNumberExtension": "-12",
+            "PostalCode": "3542AL",
+            "Street": "Mesonweg",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": -19.0,
+            "PhysicalStockQuantity": -2.0,
+            "CustomerOrderQuantity": 17.0,
+            "PurchaseOrderPendingQuantity": 10.0,
+            "StoreId": 1,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": -2392.0,
+            "PhysicalStockQuantity": 980.0,
+            "CustomerOrderQuantity": 3372.0,
+            "PurchaseOrderQuantity": 3702.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 27,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": -455.0,
+            "PhysicalStockQuantity": -364.0,
+            "CustomerOrderQuantity": 91.0,
+            "PurchaseOrderPendingQuantity": 90.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 56,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": -1999460.0,
+            "PhysicalStockQuantity": 542.0,
+            "CustomerOrderQuantity": 2000002.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 51,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 497.0,
+            "PhysicalStockQuantity": 745.0,
+            "CustomerOrderQuantity": 248.0,
+            "PurchaseOrderQuantity": 180.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 7,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 519.0,
+            "PhysicalStockQuantity": 724.0,
+            "CustomerOrderQuantity": 205.0,
+            "PurchaseOrderQuantity": 55.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 26,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 2803.0,
+            "PhysicalStockQuantity": 2906.0,
+            "CustomerOrderQuantity": 99.0,
+            "PurchaseOrderQuantity": 3154.0,
+            "DeliveriesPendingQuantity": 4.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 22,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 887.0,
+            "PhysicalStockQuantity": 1259.0,
+            "CustomerOrderQuantity": 372.0,
+            "PurchaseOrderQuantity": 480.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 13,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 551.0,
+            "PhysicalStockQuantity": 555.0,
+            "CustomerOrderQuantity": 4.0,
+            "PurchaseOrderQuantity": 181.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 30,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 658.0,
+            "PhysicalStockQuantity": 684.0,
+            "CustomerOrderQuantity": 26.0,
+            "PurchaseOrderQuantity": 610.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 24,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 580.0,
+            "PhysicalStockQuantity": 2168.0,
+            "CustomerOrderQuantity": 1588.0,
+            "PurchaseOrderQuantity": 15.0,
+            "StoreId": 58,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 548.0,
+            "PhysicalStockQuantity": 581.0,
+            "CustomerOrderQuantity": 33.0,
+            "PurchaseOrderQuantity": 405.0,
+            "MinimumStockQuantity": 1080.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 9,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 2409.0,
+            "PhysicalStockQuantity": 2503.0,
+            "CustomerOrderQuantity": 94.0,
+            "PurchaseOrderQuantity": 495.0,
+            "MinimumStockQuantity": 1080.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 32,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 582.0,
+            "PhysicalStockQuantity": 593.0,
+            "CustomerOrderQuantity": 11.0,
+            "PurchaseOrderQuantity": 135.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 12,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 443.0,
+            "PhysicalStockQuantity": 443.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 47,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 796.0,
+            "PhysicalStockQuantity": 796.0,
+            "PurchaseOrderQuantity": 315.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 35,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 1281.0,
+            "PhysicalStockQuantity": 1306.0,
+            "CustomerOrderQuantity": 25.0,
+            "PurchaseOrderQuantity": 565.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 38,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 2482.0,
+            "PhysicalStockQuantity": 2478.0,
+            "PurchaseOrderQuantity": 855.0,
+            "SalesPendingQuantity": -4.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 39,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 549.0,
+            "PhysicalStockQuantity": 594.0,
+            "CustomerOrderQuantity": 45.0,
+            "PurchaseOrderQuantity": 315.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 40,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 1013.0,
+            "PhysicalStockQuantity": 1175.0,
+            "CustomerOrderQuantity": 175.0,
+            "PurchaseOrderQuantity": 2280.0,
+            "SalesPendingQuantity": -13.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 29,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 991.0,
+            "PhysicalStockQuantity": 993.0,
+            "CustomerOrderQuantity": 2.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 33,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 605.0,
+            "PhysicalStockQuantity": 615.0,
+            "CustomerOrderQuantity": 10.0,
+            "PurchaseOrderQuantity": 190.0,
+            "MinimumStockQuantity": 200.0,
+            "MaximumStockQuantity": 425.0,
+            "StoreId": 37,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 196.0,
+            "PhysicalStockQuantity": 217.0,
+            "CustomerOrderQuantity": 21.0,
+            "PurchaseOrderQuantity": 515.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 53,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 52.0,
+            "PhysicalStockQuantity": 232.0,
+            "CustomerOrderQuantity": 180.0,
+            "PurchaseOrderQuantity": 180.0,
+            "MinimumStockQuantity": 18.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 54,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 709.0,
+            "PhysicalStockQuantity": 754.0,
+            "CustomerOrderQuantity": 45.0,
+            "PurchaseOrderQuantity": 2295.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 23,
+            "AllowSystemOverride": false
+          },
+          {
+            "AvailableQuantity": 966.0,
+            "PhysicalStockQuantity": 966.0,
+            "PurchaseOrderQuantity": 405.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 11,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 584.0,
+            "PhysicalStockQuantity": 584.0,
+            "PurchaseOrderQuantity": 180.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 15,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 383.0,
+            "PhysicalStockQuantity": 383.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 49,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 3831.0,
+            "PhysicalStockQuantity": 4018.0,
+            "CustomerOrderQuantity": 187.0,
+            "PurchaseOrderQuantity": 1735.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 34,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": -1883.0,
+            "PhysicalStockQuantity": 530.0,
+            "CustomerOrderQuantity": 2413.0,
+            "PurchaseOrderQuantity": 631.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 6,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 869.0,
+            "PhysicalStockQuantity": 869.0,
+            "PurchaseOrderQuantity": 450.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 50,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 778.0,
+            "PhysicalStockQuantity": 733.0,
+            "PurchaseOrderQuantity": 405.0,
+            "SalesPendingQuantity": -45.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 44,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 1167.0,
+            "PhysicalStockQuantity": 1192.0,
+            "CustomerOrderQuantity": 25.0,
+            "PurchaseOrderQuantity": 565.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 10,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 1354.0,
+            "PhysicalStockQuantity": 1354.0,
+            "PurchaseOrderQuantity": 1395.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 36,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 214.0,
+            "PhysicalStockQuantity": 214.0,
+            "PurchaseOrderQuantity": 180.0,
+            "MinimumStockQuantity": 180.0,
+            "MaximumStockQuantity": 360.0,
+            "StoreId": 17,
+            "AllowSystemOverride": false
+          },
+          {
+            "AvailableQuantity": 471.0,
+            "PhysicalStockQuantity": 474.0,
+            "CustomerOrderQuantity": 3.0,
+            "PurchaseOrderQuantity": 135.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 48,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 1101.0,
+            "PhysicalStockQuantity": 1166.0,
+            "CustomerOrderQuantity": 20.0,
+            "PurchaseOrderQuantity": 20.0,
+            "DeliveriesPendingQuantity": 45.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 41,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 453.0,
+            "PhysicalStockQuantity": 453.0,
+            "PurchaseOrderQuantity": 270.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 18,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 849.0,
+            "PhysicalStockQuantity": 970.0,
+            "CustomerOrderQuantity": 121.0,
+            "PurchaseOrderQuantity": 135.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 5,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 877.0,
+            "PhysicalStockQuantity": 1433.0,
+            "CustomerOrderQuantity": 556.0,
+            "PurchaseOrderQuantity": 0.001,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 8,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": -206.0,
+            "PhysicalStockQuantity": 842.0,
+            "CustomerOrderQuantity": 1048.0,
+            "PurchaseOrderQuantity": 24.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 400.0,
+            "StoreId": 42,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 676.0,
+            "PhysicalStockQuantity": 754.0,
+            "CustomerOrderQuantity": 78.0,
+            "PurchaseOrderQuantity": 552.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 25,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 860.0,
+            "PhysicalStockQuantity": 880.0,
+            "CustomerOrderQuantity": 20.0,
+            "PurchaseOrderQuantity": 20.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 19,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 601.0,
+            "PhysicalStockQuantity": 654.0,
+            "CustomerOrderQuantity": 53.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 16,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 922.0,
+            "PhysicalStockQuantity": 1192.0,
+            "CustomerOrderQuantity": 225.0,
+            "PurchaseOrderQuantity": 2475.0,
+            "DeliveriesPendingQuantity": 45.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 31,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 123.0,
+            "PhysicalStockQuantity": 130.0,
+            "CustomerOrderQuantity": 7.0,
+            "PurchaseOrderQuantity": 360.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 55,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 695.0,
+            "PhysicalStockQuantity": 1097.0,
+            "CustomerOrderQuantity": 402.0,
+            "PurchaseOrderQuantity": 631.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 438.0,
+            "PhysicalStockQuantity": 438.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 43,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 268.0,
+            "PhysicalStockQuantity": 270.0,
+            "CustomerOrderQuantity": 2.0,
+            "PurchaseOrderQuantity": 181.001,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 52,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 1127.0,
+            "PhysicalStockQuantity": 1134.0,
+            "CustomerOrderQuantity": 7.0,
+            "PurchaseOrderQuantity": 90.0,
+            "MinimumStockQuantity": 135.0,
+            "MaximumStockQuantity": 450.0,
+            "StoreId": 14,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 21.0,
+            "PhysicalStockQuantity": 21.0,
+            "PurchaseOrderQuantity": 180.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 59,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 217.0,
+            "PhysicalStockQuantity": 217.0,
+            "PurchaseOrderQuantity": 90.0,
+            "MinimumStockQuantity": 20.0,
+            "MaximumStockQuantity": 50.0,
+            "StoreId": 61,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 312.0,
+            "PhysicalStockQuantity": 312.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 62,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    },
+    {
+      "BrandName": "Knauf",
+      "Content": 1.0,
+      "ContentID": "stuk",
+      "DefaultImageUrl": "https://cdn.bouwmaat.nl/Product/Front/150914/63624532-A126-47CB-A019-9EC72C873294.jpg",
+      "DiscountPrice": 0,
+      "DiscountPriceExclVAT": 0,
+      "LowestMeerMinderPriceInclVAT": 0,
+      "LowestMeerMinderPriceExclVAT": 0,
+      "LowestMeerMinderQuantity": 0,
+      "HasAction": false,
+      "HasDiscount": false,
+      "IsOrderable": true,
+      "PriceExclVAT": 9.49,
+      "PriceInclVAT": 11.48,
+      "ProductDescription": "Knauf MP75 Diamant 25 kg",
+      "ProductID": "334921",
+      "ProductMemo": "Knauf MP75 Diamant 25 kgNIEUW! Extra harde machinepleister voor langdurige mooie wanden.Het volledig nieuwe recept van de MP: MP 75 Diamant, een witte gips afkomstig uit de Belgische fabriek in Engis, net als de welbekende MP 75. Deze Diamant combineert de hardheid en stootvastheid van de (bruine) Duitse Diamant met de verwerkbaarheid/ smeuïgheid en open tijd van de 'gewone' witte MP75. De nieuwe MP 75 Diamant wordt wel 3 keer harder dan de 'normale' MP 75 na volledige droging.Kortom: Een fijn te verwerken machinepleister en minder kans op beschadigingen van je wand door de speciale en volledig nieuwe samenstelling van de machinepleister: MP 75 Diamant.Voordelen:Smeert net zo lekker als de “normale” MP 753 x harder dan MP75Te verwerken in het traditionele dag ritmeGladder af tewerkenLicht op te brengen, makkelijk te reienDeze Diamant is een machinepleister met een verhoogde oppervlaktehardheid en druksterkte (≥ 6 N/mm). Dankzij die hardheid blijven wanden langer mooi, beschadigingen aan de wand worden tot een minimum beperkt. Je kunt MP 75 Diamant gebruiken op de meeste steenachtige wanden en plafonds binnen, zelfs in keukens en badkamers in woningen. Let op: de ondergrond moet wel minimaal dezelfde hardheid hebben als MP 75 Diamant. Uitzonderingen hierop zijn stucplaten en Stucanet, deze pleisterdragers kunnen perfect gestukadoord worden met MP 75 Diamant. Pas bij betonnen plafonds altijd Knauf PutzPin toe. De pleister is door zijn toeslagstoffen geschikt voor grotere laagdiktes.Om de technische kenmerken van de pleister te bereiken is een voorbehandeling van de ondergrond en een laagdikte van 10 mm altijd noodzakelijk.Technische gegevens:Verbruik: 12 kg per 10 mm/m2Opbrengst per zak: ca. 2,6 m2/10mm laagdikteVerwerkingswijze: machinaalVerwerkingstijd: circa 30 minutenUithardingstijd: circa 220 minutenLaagdikte wand: 10 – 40 mmLaagdikte plafond: 10-20 met Knauf PutzPin",
+      "ProductNumber": "0000767521",
+      "ProductNumberTrimmed": "767521",
+      "StockLevel": 0,
+      "StockQuantity": 0,
+      "MaxOrderableQuantity": 0,
+      "ProductDetailPageRelativeURL": "knauf-mp75-diamant-25-kg/product/0000767521",
+      "DeliveryType": "bm",
+      "Probability": 0.545,
+      "ProductDiscounts": [],
+      "IsActiveInt": 1,
+      "CategoryCodeID": "",
+      "Category": "",
+      "IsActive": true,
+      "OpIsOp": false,
+      "DeliveryEstimate": "twothreedays",
+      "AsposProduct": {
+        "Id": 334921,
+        "State": "Active",
+        "Type": "Product",
+        "Number": "0000767521",
+        "Description": "Knauf MP75 Diamant 25 kg",
+        "SecondDescription": "",
+        "OnlineDescription": "Knauf MP75 Diamant 25 kg",
+        "AssortimentCode": "1",
+        "AssortimentDescription": "1",
+        "PriceInclTax": 11.4829,
+        "PriceExclTax": 9.49,
+        "ListPrice": 11.4829,
+        "Content": 25.0,
+        "ContentType": "",
+        "BonusPoints": 0,
+        "BonusPointsAllowed": true,
+        "BrandId": 348,
+        "GroupId": 38,
+        "SubGroupId": 292,
+        "HasActiveWebNodes": true,
+        "DefaultScanCodeId": 1919027,
+        "TaxRate": 21.0,
+        "PreferredProductSupplierId": 581504,
+        "PurchasePrice": 5.69,
+        "PurchaseUnit": "Stuk",
+        "PurchaseUnitFactor": 45.0,
+        "DiscountAllowed": true,
+        "CategoryGroupId": 2472,
+        "StoreId": 1,
+        "PriceType": "Standaard",
+        "SalesUnit": "Stuk",
+        "SerialUsage": "None",
+        "LabelKind": "Schaplabel",
+        "DefaultOrderQuantity": 1.0,
+        "TaxCodeId": 3,
+        "DefaultLabelTypeId": 24,
+        "ActiveWebNodes": [
+          {
+            "Id": 4407,
+            "Description": "Actie"
+          },
+          {
+            "Id": 5431,
+            "Description": "Gipsgebonden basispleisters"
+          }
+        ],
+        "Brand": {
+          "Id": 348,
+          "Code": "Knauf",
+          "Description": "Knauf",
+          "Images": [
+            {
+              "Id": 47101,
+              "RelatedId": 348,
+              "Type": "Big",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Big/150914/79b205db-e837-4f0f-8e79-9e4a923fdc05.jpg"
+            },
+            {
+              "Id": 47102,
+              "RelatedId": 348,
+              "Type": "Small",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Small/150914/ea2a87c2-a9cc-4927-9494-5a72e05e6c07.jpg"
+            },
+            {
+              "Id": 83699,
+              "RelatedId": 348,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/ProductBrand/Front/150914/958aadf7-0e2e-46b5-bbe5-3bf521b61d2d.jpg"
+            }
+          ]
+        },
+        "DefaultScanCode": {
+          "Id": 1919027,
+          "Code": "5413503609345",
+          "Quantity": 1.0
+        },
+        "Discounts": [],
+        "Fields": [
+          {
+            "Code": "ALLOWPRODUCTCHANGE",
+            "Description": "AllowProductChange",
+            "Value": "no"
+          },
+          {
+            "Code": "PalletItem",
+            "Description": "PalletItem",
+            "Value": "false"
+          },
+          {
+            "Code": "CompPrice",
+            "Description": "CompPrice",
+            "Value": "0"
+          },
+          {
+            "Code": "CompBulkPrice",
+            "Description": "CompBulkPrice",
+            "Value": "0"
+          },
+          {
+            "Code": "OrderabelInWebshop",
+            "Description": "OrderabelInWebshop",
+            "Value": "true"
+          },
+          {
+            "Code": "DailyPrice",
+            "Description": "DailyPrice",
+            "Value": "true"
+          },
+          {
+            "Code": "NewAtBouwmaat",
+            "Description": "NewAtBouwmaat",
+            "Value": "false"
+          },
+          {
+            "Code": "ItemType",
+            "Description": "ItemType",
+            "Value": "1"
+          },
+          {
+            "Code": "IndicatorCompact",
+            "Description": "IndicatorCompact",
+            "Value": "true"
+          },
+          {
+            "Code": "LabelEenheidGroot",
+            "Description": "LabelEenheidGroot",
+            "Value": "per stuk"
+          },
+          {
+            "Code": "LabelPrijsGroot",
+            "Description": "LabelPrijsGroot",
+            "Value": "9.49"
+          },
+          {
+            "Code": "Materiaal van doeloppervlak",
+            "Description": "Materiaal van doeloppervlak",
+            "Value": "Muren"
+          },
+          {
+            "Code": "Rendement condities",
+            "Description": "Rendement condities",
+            "Value": "10mm laagdikte"
+          },
+          {
+            "Code": "Type structuur",
+            "Description": "Type structuur",
+            "Value": "Anders"
+          },
+          {
+            "Code": "Uitgehard na",
+            "Description": "Uitgehard na",
+            "Value": "210 minute (time unit)"
+          },
+          {
+            "Code": "Diepte van het vermelde type",
+            "Description": "Diepte van het vermelde type",
+            "Value": "130 millimeter"
+          },
+          {
+            "Code": "Hoogte van het vermelde type",
+            "Description": "Hoogte van het vermelde type",
+            "Value": "540 millimeter"
+          },
+          {
+            "Code": "Netto gewicht",
+            "Description": "Netto gewicht",
+            "Value": "25 KG"
+          },
+          {
+            "Code": "Type pleister",
+            "Description": "Type pleister",
+            "Value": "Gipspleister"
+          },
+          {
+            "Code": "Kleurfamilie",
+            "Description": "Kleurfamilie",
+            "Value": "Wit"
+          },
+          {
+            "Code": "Netto inhoud",
+            "Description": "Netto inhoud",
+            "Value": "25"
+          },
+          {
+            "Code": "Toepassing",
+            "Description": "Toepassing",
+            "Value": "Wand en plafond binnen"
+          },
+          {
+            "Code": "Functionele naam",
+            "Description": "Functionele naam",
+            "Value": "Machinepleister"
+          },
+          {
+            "Code": "Rendement per verpakking",
+            "Description": "Rendement per verpakking",
+            "Value": "2.6 M2"
+          },
+          {
+            "Code": "Droogtijd",
+            "Description": "Droogtijd",
+            "Value": "hour"
+          },
+          {
+            "Code": "Breedte van het vermelde type",
+            "Description": "Breedte van het vermelde type",
+            "Value": "480 millimeter"
+          },
+          {
+            "Code": "Stof droog na",
+            "Description": "Stof droog na",
+            "Value": "3.5 hour"
+          },
+          {
+            "Code": "Ruimte buiten",
+            "Description": "Ruimte buiten",
+            "Value": "Anders"
+          },
+          {
+            "Code": "Rendement per liter",
+            "Description": "Rendement per liter",
+            "Value": "M2"
+          },
+          {
+            "Code": "Variant",
+            "Description": "Variant",
+            "Value": "MP 75 Diamant"
+          },
+          {
+            "Code": "DELIVERYTYPE",
+            "Description": "Bezorgingstype",
+            "Value": "BM"
+          },
+          {
+            "Code": "DELIVERYCOSTCAT",
+            "Description": "Verzendkosten Categorie",
+            "Value": "Grootgoed"
+          },
+          {
+            "Code": "TriggerLabel",
+            "Description": "TriggerLabel",
+            "Value": "20210927"
+          }
+        ],
+        "Group": {},
+        "Images": [
+          {
+            "Id": 84253,
+            "RelatedId": 334921,
+            "Type": "Front",
+            "Url": "https://testimageretrieval.aspos.nl/Product/Front/150914/63624532-a126-47cb-a019-9ec72c873294.jpg"
+          }
+        ],
+        "Kits": [],
+        "Memos": [
+          {
+            "MemoType": "InternetMemo",
+            "Text": "<div><strong>Knauf MP75 Diamant 25 kg</strong></div><br/><div>NIEUW! Extra harde machinepleister voor langdurige mooie wanden.<br/><br/>Het volledig nieuwe recept van de MP: MP 75 Diamant, een witte gips afkomstig uit de Belgische fabriek in Engis, net als de welbekende MP 75. Deze Diamant combineert de hardheid en stootvastheid van de (bruine) Duitse Diamant met de verwerkbaarheid/ smeuïgheid en open tijd van de 'gewone' witte MP75. De nieuwe MP 75 Diamant wordt wel 3 keer harder dan de 'normale' MP 75 na volledige droging.<br/>Kortom: Een fijn te verwerken machinepleister en minder kans op beschadigingen van je wand door de speciale en volledig nieuwe samenstelling van de machinepleister: MP 75 Diamant.<br/><br/><b>Voordelen:</b><ul><li>Smeert net zo lekker als de “normale” MP 75</li><li>3 x harder dan MP75</li><li>Te verwerken in het traditionele dag ritme</li><li>Gladder af tewerken</li><li>Licht op te brengen, makkelijk te reien</li></ul>Deze Diamant is een machinepleister met een verhoogde oppervlaktehardheid en druksterkte (≥ 6 N/mm). Dankzij die hardheid blijven wanden langer mooi, beschadigingen aan de wand worden tot een minimum beperkt. Je kunt MP 75 Diamant gebruiken op de meeste steenachtige wanden en plafonds binnen, zelfs in keukens en badkamers in woningen. Let op: de ondergrond moet wel minimaal dezelfde hardheid hebben als MP 75 Diamant. Uitzonderingen hierop zijn stucplaten en Stucanet, deze pleisterdragers kunnen perfect gestukadoord worden met MP 75 Diamant. Pas bij betonnen plafonds altijd Knauf PutzPin toe. De pleister is door zijn toeslagstoffen geschikt voor grotere laagdiktes.<br/>Om de technische kenmerken van de pleister te bereiken is een voorbehandeling van de ondergrond en een laagdikte van 10 mm altijd noodzakelijk.<br/><br/><b>Technische gegevens:</b><ul><li>Verbruik: 12 kg per 10 mm/m2</li><li>Opbrengst per zak: ca. 2,6 m2/10mm laagdikte</li><li>Verwerkingswijze: machinaal</li><li>Verwerkingstijd: circa 30 minuten</li><li>Uithardingstijd: circa 220 minuten</li><li>Laagdikte wand: 10 – 40 mm</li><li>Laagdikte plafond: 10-20 met Knauf PutzPin</li></ul></div>"
+          }
+        ],
+        "PreferredProductSupplier": {
+          "SupplierProductCode": "662110",
+          "Supplier": {
+            "Id": 8884,
+            "City": "UTRECHT",
+            "Code": "KNAUF",
+            "CompanyName": "Knauf B.V.",
+            "CountryCode": "NL",
+            "DebtorCode": "KNAUF",
+            "Email": "vb@knauf.nl",
+            "HouseNumber": "8",
+            "HouseNumberExtension": "-12",
+            "PostalCode": "3542AL",
+            "Street": "Mesonweg",
+            "Website": ""
+          }
+        },
+        "StockInfo": [
+          {
+            "AvailableQuantity": 716.0,
+            "PhysicalStockQuantity": 718.0,
+            "CustomerOrderQuantity": 2.0,
+            "StoreId": 58,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 520.0,
+            "PhysicalStockQuantity": 520.0,
+            "StoreId": 22,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 95.0,
+            "PhysicalStockQuantity": 150.0,
+            "CustomerOrderQuantity": 55.0,
+            "StoreId": 5,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 129.0,
+            "PhysicalStockQuantity": 174.0,
+            "CustomerOrderQuantity": 45.0,
+            "PurchaseOrderQuantity": 45.0,
+            "StoreId": 14,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 77.0,
+            "PhysicalStockQuantity": 77.0,
+            "StoreId": 17,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 60.0,
+            "PhysicalStockQuantity": 60.0,
+            "PurchaseOrderQuantity": 1.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 19,
+            "AllowSystemOverride": true
+          },
+          {
+            "PurchaseOrderQuantity": 90.0,
+            "StoreId": 33,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 57.0,
+            "PhysicalStockQuantity": 57.0,
+            "PurchaseOrderQuantity": 45.0,
+            "StoreId": 40,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 180.0,
+            "PhysicalStockQuantity": 225.0,
+            "CustomerOrderQuantity": 45.0,
+            "StoreId": 42,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 70.0,
+            "PhysicalStockQuantity": 70.0,
+            "StoreId": 43,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 53.0,
+            "PhysicalStockQuantity": 53.0,
+            "StoreId": 44,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 88.0,
+            "PhysicalStockQuantity": 88.0,
+            "StoreId": 48,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 123.0,
+            "PhysicalStockQuantity": 123.0,
+            "PurchaseOrderQuantity": 45.002,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 52,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 96.0,
+            "PhysicalStockQuantity": 97.0,
+            "CustomerOrderQuantity": 1.0,
+            "PurchaseOrderQuantity": 1.0,
+            "StoreId": 53,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 78.0,
+            "PhysicalStockQuantity": 78.0,
+            "StoreId": 55,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 110.0,
+            "PhysicalStockQuantity": 110.0,
+            "StoreId": 7,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 135.0,
+            "PhysicalStockQuantity": 135.0,
+            "StoreId": 8,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 129.0,
+            "PhysicalStockQuantity": 129.0,
+            "StoreId": 11,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 131.0,
+            "PhysicalStockQuantity": 131.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 12,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 130.0,
+            "PhysicalStockQuantity": 130.0,
+            "StoreId": 15,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 149.0,
+            "PhysicalStockQuantity": 150.0,
+            "CustomerOrderQuantity": 1.0,
+            "StoreId": 16,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 34.0,
+            "PhysicalStockQuantity": 79.0,
+            "CustomerOrderQuantity": 45.0,
+            "PurchaseOrderQuantity": 135.0,
+            "StoreId": 18,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 94.0,
+            "PhysicalStockQuantity": 94.0,
+            "StoreId": 24,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 116.0,
+            "PhysicalStockQuantity": 116.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 25,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 130.0,
+            "PhysicalStockQuantity": 130.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 26,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 82.0,
+            "PhysicalStockQuantity": 82.0,
+            "StoreId": 30,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 129.0,
+            "PhysicalStockQuantity": 129.0,
+            "StoreId": 31,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 85.0,
+            "PhysicalStockQuantity": 85.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 35,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 135.0,
+            "PhysicalStockQuantity": 135.0,
+            "StoreId": 36,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 71.0,
+            "PhysicalStockQuantity": 71.0,
+            "StoreId": 37,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 86.0,
+            "PhysicalStockQuantity": 86.0,
+            "StoreId": 38,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 109.0,
+            "PhysicalStockQuantity": 109.0,
+            "StoreId": 41,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 129.0,
+            "PhysicalStockQuantity": 129.0,
+            "StoreId": 49,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 120.0,
+            "PhysicalStockQuantity": 120.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 51,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 165.0,
+            "PhysicalStockQuantity": 165.0,
+            "StoreId": 4,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 192.0,
+            "PhysicalStockQuantity": 196.0,
+            "CustomerOrderQuantity": 4.0,
+            "StoreId": 6,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 192.0,
+            "PhysicalStockQuantity": 196.0,
+            "CustomerOrderQuantity": 4.0,
+            "StoreId": 9,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 181.0,
+            "PhysicalStockQuantity": 181.0,
+            "PurchaseOrderQuantity": 0.001,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 13,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 219.0,
+            "PhysicalStockQuantity": 219.0,
+            "StoreId": 50,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 233.0,
+            "PhysicalStockQuantity": 233.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 10,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 265.0,
+            "PhysicalStockQuantity": 265.0,
+            "StoreId": 23,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 153.0,
+            "PhysicalStockQuantity": 153.0,
+            "PurchaseOrderQuantity": 45.0,
+            "StoreId": 29,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 229.0,
+            "PhysicalStockQuantity": 229.0,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 32,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 134.0,
+            "PhysicalStockQuantity": 134.0,
+            "PurchaseOrderQuantity": 404.9995,
+            "MinimumStockQuantity": 0.0,
+            "MaximumStockQuantity": 0.0,
+            "StoreId": 34,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 480.0,
+            "PhysicalStockQuantity": 480.0,
+            "StoreId": 39,
+            "AllowSystemOverride": true
+          },
+          {
+            "PurchaseOrderQuantity": 90.0,
+            "StoreId": 61,
+            "AllowSystemOverride": true
+          },
+          {
+            "PurchaseOrderQuantity": 90.0,
+            "StoreId": 59,
+            "AllowSystemOverride": true
+          },
+          {
+            "PurchaseOrderQuantity": 90.0,
+            "StoreId": 54,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 48.0,
+            "PhysicalStockQuantity": 48.0,
+            "PurchaseOrderQuantity": 45.0,
+            "StoreId": 47,
+            "AllowSystemOverride": true
+          },
+          {
+            "AvailableQuantity": 4.0,
+            "PhysicalStockQuantity": 4.0,
+            "PurchaseOrderQuantity": 90.0,
+            "StoreId": 62,
+            "AllowSystemOverride": true
+          }
+        ]
+      }
+    }
+  ],
+  "BrandInCategories": [],
+  "Categories": [],
+  "PopularCategories": [],
+  "DirectChildCategories": [],
+  "Brands": [],
+  "KeywordSuggestions": {
+    "mp75": [
+      {
+        "KeywordSuggestion": "mp75",
+        "CategoryID": "A-04-02-01",
+        "CategoryName": "Gipsgebonden basispleisters",
+        "SearchParameters": "SearchTerm=mp75&CategoryID=A-04-02-01"
+      }
+    ],
+    "m37": [
+      {
+        "KeywordSuggestion": "m37",
+        "CategoryID": "D-06-02-06",
+        "CategoryName": "Toebehoren en hulpstukken hemelwaterafvoer",
+        "SearchParameters": "SearchTerm=m37&CategoryID=D-06-02-06"
+      },
+      {
+        "KeywordSuggestion": "m37",
+        "CategoryID": "D-06-02-01",
+        "CategoryName": "Goten hemelwaterafvoer",
+        "SearchParameters": "SearchTerm=m37&CategoryID=D-06-02-01"
+      }
+    ]
+  },
+  "AlternativeSuggestions": [],
+  "Total": 2,
+  "Offset": 0,
+  "MinPriceFilter": 6.69,
+  "MinPriceFilterInclVat": 8.0949,
+  "MaxPriceFilter": 9.49,
+  "MaxPriceFilterInclVat": 11.4829,
+  "BrandFilterList": [],
+  "CategoryFilterList": [
+    {
+      "CategoryID": "A-04-02-01",
+      "CategoryName": "Gipsgebonden basispleisters",
+      "CategoryURL": "/bouwmaterialen/stucen/pleisters/gipsgebonden-basispleisters",
+      "TotalCount": 2
+    }
+  ],
+  "FiltersFacetsList": {
+    "Functionele%20productnaam": [
+      {
+        "Value": "pleister %20",
+        "RawValue": "pleister",
+        "Unit": "%20",
+        "TotalCount": 1
+      },
+      {
+        "Value": "machinepleister %20",
+        "RawValue": "machinepleister",
+        "Unit": "%20",
+        "TotalCount": 1
+      }
+    ],
+    "Variant": [
+      {
+        "Value": "machinepleister %20",
+        "RawValue": "machinepleister",
+        "Unit": "%20",
+        "TotalCount": 1
+      },
+      {
+        "Value": "mp%2075%20diamant %20",
+        "RawValue": "mp%2075%20diamant",
+        "Unit": "%20",
+        "TotalCount": 1
+      }
+    ],
+    "Droogtijd": [
+      {
+        "Value": "72 hour",
+        "RawValue": "72",
+        "Unit": "hour",
+        "TotalCount": 2
+      },
+      {
+        "Value": "7 hour",
+        "RawValue": "7",
+        "Unit": "hour",
+        "TotalCount": 1
+      }
+    ]
+  }
+}

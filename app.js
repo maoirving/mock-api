@@ -34,19 +34,23 @@ const indexRouter = require('./routes/index')
 app.use('/', indexRouter)
 
 // set CURRENT_PROJECT
-const CURRENT_PROJECT = 'parfuma'
+const CURRENT_PROJECT = 'bouwmaat'
 
 const commonRouter = {
   geocode: require('./routes/common/geocode'),
 }
-app.use('/mock/geocode', commonRouter.geocode)
+app.use('/geocode', commonRouter.geocode)
 
 if (CURRENT_PROJECT === 'bouwmaat') {
   // bouwmaat
   const bouwmaatRouters = {
+    content: require('./routes/bouwmmat/content'),
     cart: require('./routes/bouwmmat/cart'),
+    sparque: require('./routes/bouwmmat/sparque'),
   }
-  app.use('/mock/bouwmaat/cart', bouwmaatRouters.cart)
+  app.use('/vm/u', bouwmaatRouters.content)
+  app.use('/cart', bouwmaatRouters.cart)
+  app.use('/sp', bouwmaatRouters.sparque)
 } else if (CURRENT_PROJECT === 'parfuma') {
   // parfuma
   const parfumaRouters = {
@@ -55,10 +59,10 @@ if (CURRENT_PROJECT === 'bouwmaat') {
     webNodes: require('./routes/parfuma/webnodes'),
     stores: require('./routes/parfuma/stores'),
   }
-  app.use('/mock/vm/u', parfumaRouters.content)
-  app.use('/mock/products', parfumaRouters.products)
-  app.use('/mock/webnodes', parfumaRouters.webNodes)
-  app.use('/mock/stores', parfumaRouters.stores)
+  app.use('/vm/u', parfumaRouters.content)
+  app.use('/products', parfumaRouters.products)
+  app.use('/webnodes', parfumaRouters.webNodes)
+  app.use('/stores', parfumaRouters.stores)
 } else {
   // todo
 }

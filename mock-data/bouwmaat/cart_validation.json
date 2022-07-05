@@ -1,0 +1,1722 @@
+{
+  "IsOrderable": false,
+  "NewCart": {
+    "CartKey": "244037",
+    "NextCartLineId": 8,
+    "CreatedDate": "2022-06-29T20:39:16.9136786+08:00",
+    "LastModifiedDate": "2022-06-30T17:13:00.7030381+08:00",
+    "ModificationDates": [
+      "2022-06-29T20:39:18.8490085+08:00",
+      "2022-06-29T20:39:21.6998354+08:00",
+      "2022-06-30T09:33:03.9043688+08:00",
+      "2022-06-30T09:33:48.4390521+08:00",
+      "2022-06-30T09:34:14.4977903+08:00",
+      "2022-06-30T09:35:27.4536441+08:00",
+      "2022-06-30T09:36:19.0202284+08:00",
+      "2022-06-30T09:37:05.8298377+08:00",
+      "2022-06-30T09:37:26.6526049+08:00",
+      "2022-06-30T09:37:41.7177144+08:00",
+      "2022-06-30T09:39:49.6332305+08:00",
+      "2022-06-30T09:42:01.4544753+08:00",
+      "2022-06-30T09:42:17.2093106+08:00",
+      "2022-06-30T09:44:26.5771740+08:00",
+      "2022-06-30T09:47:18.8803405+08:00",
+      "2022-06-30T09:47:57.2580446+08:00",
+      "2022-06-30T09:49:38.7772904+08:00",
+      "2022-06-30T09:55:22.2166672+08:00",
+      "2022-06-30T09:59:24.4977606+08:00",
+      "2022-06-30T10:00:05.4006474+08:00",
+      "2022-06-30T10:02:31.4119239+08:00",
+      "2022-06-30T10:05:12.7018935+08:00",
+      "2022-06-30T10:05:21.6716874+08:00",
+      "2022-06-30T10:05:50.3696313+08:00",
+      "2022-06-30T10:06:12.5687458+08:00",
+      "2022-06-30T10:07:18.5518533+08:00",
+      "2022-06-30T10:08:11.1082397+08:00",
+      "2022-06-30T10:08:53.4443172+08:00",
+      "2022-06-30T10:09:17.4995925+08:00",
+      "2022-06-30T10:09:44.7842210+08:00",
+      "2022-06-30T10:14:02.7543593+08:00",
+      "2022-06-30T10:14:51.8048420+08:00",
+      "2022-06-30T10:17:52.1548531+08:00",
+      "2022-06-30T10:18:05.2067329+08:00",
+      "2022-06-30T10:19:19.3196352+08:00",
+      "2022-06-30T10:19:47.8701355+08:00",
+      "2022-06-30T10:19:55.8740763+08:00",
+      "2022-06-30T10:20:15.0928459+08:00",
+      "2022-06-30T10:20:27.8020143+08:00",
+      "2022-06-30T10:21:42.6299404+08:00",
+      "2022-06-30T10:22:49.5852258+08:00",
+      "2022-06-30T10:23:04.4074941+08:00",
+      "2022-06-30T10:23:44.7856286+08:00",
+      "2022-06-30T10:23:59.0914249+08:00",
+      "2022-06-30T10:25:34.7481330+08:00",
+      "2022-06-30T10:25:49.2969380+08:00",
+      "2022-06-30T10:28:20.4191150+08:00",
+      "2022-06-30T10:28:34.6183143+08:00",
+      "2022-06-30T10:30:01.6733467+08:00",
+      "2022-06-30T10:30:18.8632142+08:00",
+      "2022-06-30T10:31:48.7585161+08:00",
+      "2022-06-30T10:32:22.6741577+08:00",
+      "2022-06-30T10:32:54.8799442+08:00",
+      "2022-06-30T10:34:22.3692909+08:00",
+      "2022-06-30T10:34:37.0955308+08:00",
+      "2022-06-30T10:37:44.1742610+08:00",
+      "2022-06-30T10:43:40.6494576+08:00",
+      "2022-06-30T10:44:15.1915052+08:00",
+      "2022-06-30T10:44:31.7739779+08:00",
+      "2022-06-30T10:44:51.1771690+08:00",
+      "2022-06-30T10:46:38.0891961+08:00",
+      "2022-06-30T10:47:05.0301425+08:00",
+      "2022-06-30T10:47:19.6431701+08:00",
+      "2022-06-30T10:55:40.7507972+08:00",
+      "2022-06-30T11:00:33.1454817+08:00",
+      "2022-06-30T11:00:51.5150230+08:00",
+      "2022-06-30T11:04:44.7889700+08:00",
+      "2022-06-30T11:05:02.0009318+08:00",
+      "2022-06-30T11:05:44.3838661+08:00",
+      "2022-06-30T11:06:43.7820168+08:00",
+      "2022-06-30T11:06:58.0506976+08:00",
+      "2022-06-30T11:07:23.9129086+08:00",
+      "2022-06-30T11:07:57.3787453+08:00",
+      "2022-06-30T11:08:27.9954757+08:00",
+      "2022-06-30T11:09:05.1645141+08:00",
+      "2022-06-30T11:09:28.8313820+08:00",
+      "2022-06-30T11:12:40.1596034+08:00",
+      "2022-06-30T11:20:04.2916943+08:00",
+      "2022-06-30T11:20:59.2519880+08:00",
+      "2022-06-30T11:23:14.2591708+08:00",
+      "2022-06-30T11:23:36.6969948+08:00",
+      "2022-06-30T11:27:32.8582551+08:00",
+      "2022-06-30T11:27:55.4956873+08:00",
+      "2022-06-30T11:28:27.2180313+08:00",
+      "2022-06-30T11:29:37.4036971+08:00",
+      "2022-06-30T11:29:51.5711872+08:00",
+      "2022-06-30T11:30:32.1042707+08:00",
+      "2022-06-30T11:30:58.9079000+08:00",
+      "2022-06-30T11:31:21.5641482+08:00",
+      "2022-06-30T11:33:31.3335112+08:00",
+      "2022-06-30T11:33:46.1226931+08:00",
+      "2022-06-30T11:35:31.9672327+08:00",
+      "2022-06-30T11:35:44.7944698+08:00",
+      "2022-06-30T11:36:37.8313223+08:00",
+      "2022-06-30T11:37:03.0395904+08:00",
+      "2022-06-30T11:37:23.7187738+08:00",
+      "2022-06-30T11:38:16.1238369+08:00",
+      "2022-06-30T11:38:30.8082341+08:00",
+      "2022-06-30T11:44:15.2237108+08:00",
+      "2022-06-30T11:44:30.0642702+08:00",
+      "2022-06-30T11:48:01.6706630+08:00",
+      "2022-06-30T11:48:15.0726904+08:00",
+      "2022-06-30T11:49:25.0290842+08:00",
+      "2022-06-30T11:49:40.1839177+08:00",
+      "2022-06-30T11:49:49.3057231+08:00",
+      "2022-06-30T11:50:02.4105495+08:00",
+      "2022-06-30T11:52:58.2477663+08:00",
+      "2022-06-30T11:53:11.9705207+08:00",
+      "2022-06-30T11:55:35.9130731+08:00",
+      "2022-06-30T11:55:50.7939660+08:00",
+      "2022-06-30T11:57:49.4457596+08:00",
+      "2022-06-30T11:58:03.2561820+08:00",
+      "2022-06-30T11:59:13.0649068+08:00",
+      "2022-06-30T11:59:26.7409650+08:00",
+      "2022-06-30T11:59:37.4164044+08:00",
+      "2022-06-30T11:59:50.5758948+08:00",
+      "2022-06-30T12:00:39.6613968+08:00",
+      "2022-06-30T12:00:54.6331433+08:00",
+      "2022-06-30T12:01:12.4453476+08:00",
+      "2022-06-30T12:01:25.6663121+08:00",
+      "2022-06-30T12:02:38.0394730+08:00",
+      "2022-06-30T12:02:52.1670594+08:00",
+      "2022-06-30T12:02:52.4925175+08:00",
+      "2022-06-30T12:03:07.7144138+08:00",
+      "2022-06-30T12:04:13.1677124+08:00",
+      "2022-06-30T12:04:26.8551529+08:00",
+      "2022-06-30T12:05:27.4946537+08:00",
+      "2022-06-30T12:06:14.9022295+08:00",
+      "2022-06-30T12:06:54.3466080+08:00",
+      "2022-06-30T12:07:11.8210399+08:00",
+      "2022-06-30T12:07:54.8454773+08:00",
+      "2022-06-30T12:08:07.9846616+08:00",
+      "2022-06-30T12:08:37.1726729+08:00",
+      "2022-06-30T12:09:01.4115068+08:00",
+      "2022-06-30T12:13:32.7261037+08:00",
+      "2022-06-30T12:13:47.2385838+08:00",
+      "2022-06-30T13:53:28.0046144+08:00",
+      "2022-06-30T13:53:55.7352246+08:00",
+      "2022-06-30T14:02:46.3664640+08:00",
+      "2022-06-30T14:03:01.5429646+08:00",
+      "2022-06-30T14:10:40.4015211+08:00",
+      "2022-06-30T14:11:33.1379517+08:00",
+      "2022-06-30T14:11:47.3482447+08:00",
+      "2022-06-30T14:14:14.0993521+08:00",
+      "2022-06-30T14:14:28.1732997+08:00",
+      "2022-06-30T14:18:06.7061774+08:00",
+      "2022-06-30T14:21:50.4171305+08:00",
+      "2022-06-30T14:22:05.4290902+08:00",
+      "2022-06-30T14:22:32.5428994+08:00",
+      "2022-06-30T14:22:45.9588486+08:00",
+      "2022-06-30T14:23:47.6152775+08:00",
+      "2022-06-30T14:24:02.4629965+08:00",
+      "2022-06-30T14:24:31.2013194+08:00",
+      "2022-06-30T14:24:44.4550117+08:00",
+      "2022-06-30T14:24:51.7108811+08:00",
+      "2022-06-30T14:25:05.3467062+08:00",
+      "2022-06-30T14:25:16.6500744+08:00",
+      "2022-06-30T14:25:29.7201399+08:00",
+      "2022-06-30T14:26:14.0668250+08:00",
+      "2022-06-30T14:31:39.1366120+08:00",
+      "2022-06-30T14:31:54.1834283+08:00",
+      "2022-06-30T14:32:10.2754241+08:00",
+      "2022-06-30T14:32:16.0659731+08:00",
+      "2022-06-30T14:32:29.4913152+08:00",
+      "2022-06-30T14:37:05.5454679+08:00",
+      "2022-06-30T14:37:21.2602634+08:00",
+      "2022-06-30T14:38:00.8529534+08:00",
+      "2022-06-30T14:38:14.8836429+08:00",
+      "2022-06-30T14:38:32.8158262+08:00",
+      "2022-06-30T14:40:24.3633215+08:00",
+      "2022-06-30T14:40:38.2535479+08:00",
+      "2022-06-30T14:53:48.2803546+08:00",
+      "2022-06-30T14:54:38.5482766+08:00",
+      "2022-06-30T14:56:16.9622785+08:00",
+      "2022-06-30T14:56:38.5407889+08:00",
+      "2022-06-30T14:56:50.7146916+08:00",
+      "2022-06-30T15:00:13.8484986+08:00",
+      "2022-06-30T15:16:10.6337769+08:00",
+      "2022-06-30T15:16:29.3401965+08:00",
+      "2022-06-30T15:16:51.9422029+08:00",
+      "2022-06-30T15:18:14.2142523+08:00",
+      "2022-06-30T15:18:49.1815432+08:00",
+      "2022-06-30T15:19:07.0710338+08:00",
+      "2022-06-30T15:19:33.5749497+08:00",
+      "2022-06-30T15:19:44.0504939+08:00",
+      "2022-06-30T15:20:12.2470791+08:00",
+      "2022-06-30T15:20:57.2513432+08:00",
+      "2022-06-30T15:22:32.2358943+08:00",
+      "2022-06-30T15:22:48.6766068+08:00",
+      "2022-06-30T15:22:53.8137945+08:00",
+      "2022-06-30T15:29:12.0367081+08:00",
+      "2022-06-30T15:29:51.9433613+08:00",
+      "2022-06-30T16:17:06.7192719+08:00",
+      "2022-06-30T16:29:23.0109337+08:00",
+      "2022-06-30T16:30:35.1431356+08:00",
+      "2022-06-30T16:35:15.6647304+08:00",
+      "2022-06-30T16:35:23.8323439+08:00",
+      "2022-06-30T16:35:48.5088330+08:00",
+      "2022-06-30T16:40:17.0698813+08:00",
+      "2022-06-30T16:40:28.9552253+08:00",
+      "2022-06-30T16:42:57.7834400+08:00",
+      "2022-06-30T16:43:05.0205665+08:00",
+      "2022-06-30T16:43:15.6294221+08:00",
+      "2022-06-30T16:43:44.3406851+08:00",
+      "2022-06-30T16:43:47.2041875+08:00",
+      "2022-06-30T16:43:57.8572956+08:00",
+      "2022-06-30T16:44:32.6004287+08:00",
+      "2022-06-30T16:44:44.0672921+08:00",
+      "2022-06-30T16:44:54.4518503+08:00",
+      "2022-06-30T16:45:03.2479359+08:00",
+      "2022-06-30T16:47:32.8310393+08:00",
+      "2022-06-30T16:48:32.0395833+08:00",
+      "2022-06-30T16:49:14.1154655+08:00",
+      "2022-06-30T16:49:22.7752354+08:00",
+      "2022-06-30T16:51:04.0008427+08:00",
+      "2022-06-30T16:51:39.0143377+08:00",
+      "2022-06-30T16:52:00.6233720+08:00",
+      "2022-06-30T16:52:16.6853857+08:00",
+      "2022-06-30T16:53:19.6792230+08:00",
+      "2022-06-30T16:53:22.8699279+08:00",
+      "2022-06-30T16:54:31.3633855+08:00",
+      "2022-06-30T16:55:11.8714611+08:00",
+      "2022-06-30T16:59:19.9234904+08:00",
+      "2022-06-30T17:01:01.9421834+08:00",
+      "2022-06-30T17:01:52.7285784+08:00",
+      "2022-06-30T17:02:14.7254642+08:00",
+      "2022-06-30T17:03:41.9322495+08:00",
+      "2022-06-30T17:04:10.8053479+08:00",
+      "2022-06-30T17:05:14.5366460+08:00",
+      "2022-06-30T17:07:32.6126071+08:00",
+      "2022-06-30T17:08:40.0644365+08:00",
+      "2022-06-30T17:10:18.8205308+08:00",
+      "2022-06-30T17:10:33.4717002+08:00",
+      "2022-06-30T17:11:01.6418061+08:00",
+      "2022-06-30T17:11:20.8341490+08:00",
+      "2022-06-30T17:12:16.5345727+08:00",
+      "2022-06-30T17:12:32.7052115+08:00",
+      "2022-06-30T17:12:46.0372596+08:00",
+      "2022-06-30T17:13:00.7030391+08:00"
+    ],
+    "CustomerId": 87011,
+    "CustomerContactId": 244037,
+    "Customer": {
+      "Id": 87011,
+      "Code": "0005729176",
+      "FirstName": "",
+      "MiddleName": "",
+      "Initials": "",
+      "PhoneNumber": "",
+      "MobileNumber": "",
+      "Email": "testedward@test.nl",
+      "Gender": "Company"
+    },
+    "CustomerContact": {
+      "Id": 0,
+      "Code": "0005729177",
+      "FirstName": "Arjan",
+      "MiddleName": "van",
+      "LastName": "Eck",
+      "Initials": "A.",
+      "PhoneNumber": "06 81613745",
+      "MobileNumber": "06 81613745",
+      "Email": "hcp@vaneck.nl",
+      "Gender": "Male"
+    },
+    "InvoiceAddress": {
+      "Street": "Donkere Gaard",
+      "HouseNumber": "26",
+      "PostalCode": "3421AT",
+      "City": "OUDEWATER",
+      "CountryCode": "NL"
+    },
+    "DeliveryAddressId": 1521162,
+    "UseDeliveryAddressAsInvoiceAddress": false,
+    "StoreId": 15,
+    "Store": {
+      "Name": "BOUWMAAT KATWIJK",
+      "Street": "MANDEMAKERSTRAAT",
+      "HouseNumber": "4",
+      "HouseNumberExtension": "",
+      "PostalCode": "2222AX",
+      "City": "KATWIJK",
+      "CoutryCode": "NL"
+    },
+    "ShippingMethod": "CustomerAddress",
+    "ShippingMethodType": "CustomerAddress",
+    "CartLines": [
+      {
+        "Id": 6,
+        "ProductId": 215515,
+        "ProductNumber": "0000747916",
+        "Quantity": 94.0,
+        "ProductTitle": "AXA Scharnier staal 76X76X2mm Topcoat gegalvaniseerd  ",
+        "PriceExclTax": 28.32,
+        "PriceInclTax": 34.27,
+        "TotalExclTax": 2395.12,
+        "TotalInclTax": 2898.1,
+        "TaxRate": 21.0,
+        "TaxAmount": 502.98,
+        "DiscountAmountInclTax": 323.02,
+        "DiscountAmountExclTax": 266.96,
+        "DiscountDescription": "Meer=Minder",
+        "DiscountPercentage": 10.0,
+        "Product": {
+          "Id": 215515,
+          "State": "Inactive",
+          "Type": "Product",
+          "Number": "0000747916",
+          "Description": "AXA Scharnier staal 76X76X2mm Topcoat gegalvaniseerd  ",
+          "OnlineDescription": "AXA Scharnier staal 76X76X2mm Topcoat gegalvaniseerd  ",
+          "PriceInclTax": 34.2672,
+          "PriceExclTax": 28.32,
+          "ListPrice": 34.2672,
+          "TaxRate": 21.0,
+          "ActiveWebNodes": [
+            {
+              "Id": 5878,
+              "Description": "Raamscharnieren"
+            }
+          ],
+          "Brand": {
+            "Id": 11,
+            "Description": "Axa"
+          },
+          "DefaultScanCode": {
+            "Id": 1803366,
+            "Code": "8713249107974",
+            "Quantity": 1.0
+          },
+          "Discounts": [
+            {
+              "Id": 32648,
+              "Description": "BULKPROMOTION",
+              "TicketDescription": "Meer=Minder",
+              "StartDate": "2020-08-07T00:00:00.0000000+00:00",
+              "StartTime": "PT0S",
+              "EndDate": "2050-12-31T00:00:00.0000000+00:00",
+              "EndTime": "PT23H59M",
+              "DiscountCategory": "Product",
+              "IsActive": true,
+              "Images": []
+            }
+          ],
+          "Fields": [
+            {
+              "Code": "ALLOWPRODUCTCHANGE",
+              "Description": "AllowProductChange",
+              "Value": "no"
+            },
+            {
+              "Code": "LongTail",
+              "Description": "LongTail",
+              "Value": "false"
+            },
+            {
+              "Code": "PalletItem",
+              "Description": "PalletItem",
+              "Value": "false"
+            },
+            {
+              "Code": "CompPrice",
+              "Description": "CompPrice",
+              "Value": "0"
+            },
+            {
+              "Code": "CompBulkPrice",
+              "Description": "CompBulkPrice",
+              "Value": "0"
+            },
+            {
+              "Code": "OrderabelInWebshop",
+              "Description": "OrderabelInWebshop",
+              "Value": "false"
+            },
+            {
+              "Code": "DailyPrice",
+              "Description": "DailyPrice",
+              "Value": "false"
+            },
+            {
+              "Code": "ItemType",
+              "Description": "ItemType",
+              "Value": "1"
+            },
+            {
+              "Code": "Ranking",
+              "Description": "Ranking",
+              "Value": "7234"
+            },
+            {
+              "Code": "Materiaal",
+              "Description": "Materiaal",
+              "Value": "Staal"
+            },
+            {
+              "Code": "NewAtBouwmaat",
+              "Description": "NewAtBouwmaat",
+              "Value": "false"
+            },
+            {
+              "Code": "Functionele naam",
+              "Description": "Functionele naam",
+              "Value": "Scharnier"
+            },
+            {
+              "Code": "Variant",
+              "Description": "Variant",
+              "Value": "Rechte hoek"
+            },
+            {
+              "Code": "DELIVERYTYPE",
+              "Description": "Bezorgingstype",
+              "Value": "IA"
+            },
+            {
+              "Code": "DELIVERYCOSTCAT",
+              "Description": "Verzendkosten Categorie",
+              "Value": "Kleingoed"
+            },
+            {
+              "Code": "Netto inhoud",
+              "Description": "Netto inhoud",
+              "Value": "1 doos"
+            },
+            {
+              "Code": "LabelEenheidGroot",
+              "Description": "LabelEenheidGroot",
+              "Value": "per stuk"
+            },
+            {
+              "Code": "LabelPrijsGroot",
+              "Description": "LabelPrijsGroot",
+              "Value": "28.32"
+            },
+            {
+              "Code": "IndicatorCompact",
+              "Description": "IndicatorCompact",
+              "Value": "false"
+            },
+            {
+              "Code": "Toepassing",
+              "Description": "Toepassing",
+              "Value": "Binnen/buiten"
+            },
+            {
+              "Code": "Kleurfamilie",
+              "Description": "Kleurfamilie",
+              "Value": "Metaal"
+            },
+            {
+              "Code": "Draagcapaciteit",
+              "Description": "Draagcapaciteit",
+              "Value": "20 KG"
+            },
+            {
+              "Code": "Netto gewicht",
+              "Description": "Netto gewicht",
+              "Value": "0.125 KG"
+            },
+            {
+              "Code": "Indicatie SKG waardering keurmerk",
+              "Description": "Indicatie SKG waardering keurmerk",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Breedte van het vermelde type",
+              "Description": "Breedte van het vermelde type",
+              "Value": "76 millimeter"
+            },
+            {
+              "Code": "Diepte van het vermelde type",
+              "Description": "Diepte van het vermelde type",
+              "Value": "2 millimeter"
+            },
+            {
+              "Code": "Hoogte van het vermelde type",
+              "Description": "Hoogte van het vermelde type",
+              "Value": "76 millimeter"
+            },
+            {
+              "Code": "Indicatie verstelbaar",
+              "Description": "Indicatie verstelbaar",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Aantal graden draaibaar",
+              "Description": "Aantal graden draaibaar",
+              "Value": "degree"
+            },
+            {
+              "Code": "Indicatie met dievenklauw",
+              "Description": "Indicatie met dievenklauw",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Indicatie Politie veilig wonen keurmerk",
+              "Description": "Indicatie Politie veilig wonen keurmerk",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Indicatie met zelfsluitende drangerfunctie",
+              "Description": "Indicatie met zelfsluitende drangerfunctie",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Type deurscharnier",
+              "Description": "Type deurscharnier",
+              "Value": "Standaard scharnier"
+            },
+            {
+              "Code": "Indicatie verdekte bevestiging",
+              "Description": "Indicatie verdekte bevestiging",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Indicatie gelagerd wiel",
+              "Description": "Indicatie gelagerd wiel",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Draairichting",
+              "Description": "Draairichting",
+              "Value": "Binnen-/buitendraaiend"
+            },
+            {
+              "Code": "Accessoires bijgeleverd",
+              "Description": "Accessoires bijgeleverd",
+              "Value": "Nee"
+            },
+            {
+              "Code": "Lijn",
+              "Description": "Lijn",
+              "Value": "Scharnieren"
+            },
+            {
+              "Code": "Indicatie met bevestigingsmateriaal",
+              "Description": "Indicatie met bevestigingsmateriaal",
+              "Value": "nee"
+            },
+            {
+              "Code": "BulkPromotion",
+              "Description": "BulkPromotion",
+              "Value": "Ja"
+            },
+            {
+              "Code": "BulkQuantity",
+              "Description": "BulkQuantity",
+              "Value": "24"
+            },
+            {
+              "Code": "TriggerLabel",
+              "Description": "TriggerLabel",
+              "Value": "20210323"
+            },
+            {
+              "Code": "HoogstePrijsEenheidStaffel",
+              "Description": "HoogstePrijsEenheidStaffel",
+              "Value": "24 voor 25.48 per stuk"
+            },
+            {
+              "Code": "ArtikelInactiefDatum",
+              "Description": "ArtikelInactiefDatum",
+              "Value": "2021-05-04"
+            }
+          ],
+          "Images": [
+            {
+              "Id": 71391,
+              "RelatedId": 215515,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Front/150914/9606023a-697b-45fb-bc65-8a33cca35e47.jpg"
+            }
+          ],
+          "Kits": [],
+          "PreferredProductSupplier": {
+            "Supplier": {
+              "Code": "BMCLC"
+            }
+          },
+          "StockInfo": [
+            {
+              "AvailableQuantity": 4.0,
+              "PhysicalStockQuantity": 4.0,
+              "StoreId": 10,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 19,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 22,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 26,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": -1.0,
+              "PhysicalStockQuantity": -1.0,
+              "StoreId": 33,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 34,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 35,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 47,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 48,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 4.0,
+              "PhysicalStockQuantity": 4.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 52,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 7.0,
+              "PhysicalStockQuantity": 7.0,
+              "StoreId": 53,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "StoreId": 55,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 96.0,
+              "PhysicalStockQuantity": 96.0,
+              "StoreId": 58,
+              "AllowSystemOverride": true
+            }
+          ],
+          "ProductConnections": []
+        },
+        "ProductUrl": "axa-scharnier-staal-76x76x2mm-topcoat-gegalvaniseerd-0000747916",
+        "OnlyOnStockInExcludedStores": false,
+        "AsposDerived": false
+      },
+      {
+        "Id": 8,
+        "ProductId": 278988,
+        "ProductNumber": "0000754718",
+        "Quantity": 4.0,
+        "ProductTitle": "DeWalt 18V XR Brushless Decoupeerzaag DSC334NT-XJ",
+        "PriceExclTax": 211.0,
+        "PriceInclTax": 255.31,
+        "TotalExclTax": 463.48,
+        "TotalInclTax": 560.81,
+        "TaxRate": 21.0,
+        "TaxAmount": 97.33,
+        "DiscountAmountInclTax": 460.4,
+        "DiscountAmountExclTax": 380.52,
+        "DiscountDescription": "Test productconnection gratis",
+        "DiscountPercentage": 21.0,
+        "Product": {
+          "Id": 278988,
+          "State": "Active",
+          "Type": "Product",
+          "Number": "0000754718",
+          "Description": "DeWalt 18V XR Brushless Decoupeerzaag DSC334NT-XJ",
+          "OnlineDescription": "DeWalt 18V XR Brushless Decoupeerzaag DSC334NT-XJ",
+          "PriceInclTax": 255.31,
+          "PriceExclTax": 211.0,
+          "ListPrice": 255.31,
+          "TaxRate": 21.0,
+          "ActiveWebNodes": [
+            {
+              "Id": 5670,
+              "Description": "Decoupeerzagen"
+            }
+          ],
+          "Brand": {
+            "Id": 122,
+            "Description": "DeWalt"
+          },
+          "DefaultScanCode": {
+            "Id": 1694248,
+            "Code": "5035048710623",
+            "Quantity": 1.0
+          },
+          "Discounts": [
+            {
+              "Id": 34255,
+              "Description": "Test productconnection gratis",
+              "TicketDescription": "Test productconnection gratis",
+              "StartDate": "2022-06-27T00:00:00.0000000+00:00",
+              "StartTime": "PT0S",
+              "EndDate": "2050-01-01T00:00:00.0000000+00:00",
+              "EndTime": "PT23H59M",
+              "DiscountCategory": "MixMatch",
+              "IsActive": true,
+              "MinimumQuantity": 1.0,
+              "Images": []
+            }
+          ],
+          "Fields": [
+            {
+              "Code": "ALLOWPRODUCTCHANGE",
+              "Description": "AllowProductChange",
+              "Value": "no"
+            },
+            {
+              "Code": "DELIVERYTYPE",
+              "Description": "Bezorgingstype",
+              "Value": "DC"
+            },
+            {
+              "Code": "DELIVERYCOSTCAT",
+              "Description": "Verzendkosten Categorie",
+              "Value": "Kleingoed"
+            },
+            {
+              "Code": "LongTail",
+              "Description": "LongTail",
+              "Value": "false"
+            },
+            {
+              "Code": "PalletItem",
+              "Description": "PalletItem",
+              "Value": "false"
+            },
+            {
+              "Code": "CompPrice",
+              "Description": "CompPrice",
+              "Value": "0"
+            },
+            {
+              "Code": "CompBulkPrice",
+              "Description": "CompBulkPrice",
+              "Value": "0"
+            },
+            {
+              "Code": "OrderabelInWebshop",
+              "Description": "OrderabelInWebshop",
+              "Value": "true"
+            },
+            {
+              "Code": "DailyPrice",
+              "Description": "DailyPrice",
+              "Value": "false"
+            },
+            {
+              "Code": "NewAtBouwmaat",
+              "Description": "NewAtBouwmaat",
+              "Value": "false"
+            },
+            {
+              "Code": "ItemType",
+              "Description": "ItemType",
+              "Value": "1"
+            },
+            {
+              "Code": "IndicatorCompact",
+              "Description": "IndicatorCompact",
+              "Value": "false"
+            },
+            {
+              "Code": "LabelEenheidGroot",
+              "Description": "LabelEenheidGroot",
+              "Value": "per stuk"
+            },
+            {
+              "Code": "LabelPrijsGroot",
+              "Description": "LabelPrijsGroot",
+              "Value": "211.00"
+            },
+            {
+              "Code": "Ranking",
+              "Description": "Ranking",
+              "Value": "0"
+            },
+            {
+              "Code": "Netto inhoud",
+              "Description": "Netto inhoud",
+              "Value": "1 stuk"
+            }
+          ],
+          "Images": [
+            {
+              "Id": 79126,
+              "RelatedId": 278988,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Front/150914/bba33c61-9f3b-451a-be6d-a927cea56f02.jpg"
+            },
+            {
+              "Id": 81051,
+              "RelatedId": 278988,
+              "Type": "Standard image_02",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Standard image_02/150914/23c6cb2b-af49-4992-a129-8f88d9515743.jpg"
+            },
+            {
+              "Id": 81052,
+              "RelatedId": 278988,
+              "Type": "Standard image_03",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Standard image_03/150914/ca71fb31-856b-47d2-812b-0f30ff01f347.jpg"
+            },
+            {
+              "Id": 81053,
+              "RelatedId": 278988,
+              "Type": "Standard image_04",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Standard image_04/150914/20b21bb3-fd04-4d90-bdc9-e6644b3e9fdb.jpg"
+            },
+            {
+              "Id": 81054,
+              "RelatedId": 278988,
+              "Type": "Standard image_05",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Standard image_05/150914/c71eef92-73ed-4d7a-b232-db8ecd0b2875.jpg"
+            }
+          ],
+          "Kits": [],
+          "PreferredProductSupplier": {
+            "Supplier": {
+              "Code": "BLD"
+            }
+          },
+          "StockInfo": [
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 4,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 5,
+              "AllowSystemOverride": true
+            },
+            {
+              "PhysicalStockQuantity": 2.0,
+              "CustomerOrderQuantity": 2.0,
+              "StoreId": 6,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 3.0,
+              "CustomerOrderQuantity": 1.0,
+              "PurchaseOrderQuantity": 1.0,
+              "StoreId": 7,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "StoreId": 8,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 9,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 10,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 11,
+              "AllowSystemOverride": true
+            },
+            {
+              "PhysicalStockQuantity": 1.0,
+              "CustomerOrderQuantity": 1.0,
+              "StoreId": 12,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 13,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 14,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 15,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 16,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 17,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 18,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 19,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 3.0,
+              "CustomerOrderQuantity": 1.0,
+              "StoreId": 22,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 23,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 24,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": -1.0,
+              "PhysicalStockQuantity": 1.0,
+              "CustomerOrderQuantity": 2.0,
+              "StoreId": 25,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 4.0,
+              "PhysicalStockQuantity": 4.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 26,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 29,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 30,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 31,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 32,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 33,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 34,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 35,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 36,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 37,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 38,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 39,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 40,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 41,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "StoreId": 42,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 43,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 44,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 48,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "StoreId": 49,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 50,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 51,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 52,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 53,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "StoreId": 55,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 19.0,
+              "PhysicalStockQuantity": 20.0,
+              "CustomerOrderQuantity": 1.0,
+              "StoreId": 58,
+              "AllowSystemOverride": true
+            }
+          ],
+          "ProductConnections": [
+            {
+              "Type": "Free",
+              "ProductId": 34839
+            }
+          ]
+        },
+        "ProductUrl": "dewalt-18v-xr-brushless-decoupeerzaag-dsc334nt-xj-0000754718",
+        "OnlyOnStockInExcludedStores": false,
+        "AsposDerived": false
+      },
+      {
+        "Id": 9,
+        "ProductId": 34839,
+        "ProductNumber": "0000601601",
+        "Quantity": 22.0,
+        "ProductTitle": "DeWalt Schuifaccu DCB184-XJ 18 volt",
+        "PriceExclTax": 90.0,
+        "PriceInclTax": 108.9,
+        "TotalExclTax": 1817.72,
+        "TotalInclTax": 2199.44,
+        "TaxRate": 21.0,
+        "TaxAmount": 381.72,
+        "DiscountAmountInclTax": 196.4,
+        "DiscountAmountExclTax": 162.28,
+        "DiscountDescription": "Test productconnection gratis",
+        "DiscountPercentage": 18.0,
+        "Product": {
+          "Id": 34839,
+          "State": "Active",
+          "Type": "Product",
+          "Number": "0000601601",
+          "Description": "DeWalt Schuifaccu DCB184-XJ 18 volt",
+          "OnlineDescription": "DeWalt Schuifaccu DCB184-XJ 18 volt",
+          "PriceInclTax": 108.9,
+          "PriceExclTax": 90.0,
+          "ListPrice": 108.9,
+          "TaxRate": 21.0,
+          "ActiveWebNodes": [
+            {
+              "Id": 5202,
+              "Description": "Accus"
+            }
+          ],
+          "Brand": {
+            "Id": 122,
+            "Description": "DeWalt"
+          },
+          "DefaultScanCode": {
+            "Id": 143293,
+            "Code": "5035048466933",
+            "Quantity": 1.0
+          },
+          "Discounts": [
+            {
+              "Id": 34255,
+              "Description": "Test productconnection gratis",
+              "TicketDescription": "Test productconnection gratis",
+              "StartDate": "2022-06-27T00:00:00.0000000+00:00",
+              "StartTime": "PT0S",
+              "EndDate": "2050-01-01T00:00:00.0000000+00:00",
+              "EndTime": "PT23H59M",
+              "DiscountCategory": "MixMatch",
+              "IsActive": true,
+              "MinimumQuantity": 1.0,
+              "Images": []
+            }
+          ],
+          "Fields": [
+            {
+              "Code": "ALLOWPRODUCTCHANGE",
+              "Description": "AllowProductChange",
+              "Value": "no"
+            },
+            {
+              "Code": "DELIVERYTYPE",
+              "Description": "Bezorgingstype",
+              "Value": "IA"
+            },
+            {
+              "Code": "DELIVERYCOSTCAT",
+              "Description": "Verzendkosten Categorie",
+              "Value": "Kleingoed"
+            },
+            {
+              "Code": "Indicatie met accu/batterij",
+              "Description": "Indicatie met accu/batterij",
+              "Value": "Ja"
+            },
+            {
+              "Code": "Capaciteit accu",
+              "Description": "Capaciteit accu",
+              "Value": "5000 milliampère-uur"
+            },
+            {
+              "Code": "Netspanning",
+              "Description": "Netspanning",
+              "Value": "18"
+            },
+            {
+              "Code": "Voltage accu",
+              "Description": "Voltage accu",
+              "Value": "18"
+            },
+            {
+              "Code": "Type accu/batterij",
+              "Description": "Type accu/batterij",
+              "Value": "Li-Ion"
+            },
+            {
+              "Code": "Maximale elektrische spanning",
+              "Description": "Maximale elektrische spanning",
+              "Value": "18 volt"
+            },
+            {
+              "Code": "OrderabelInWebshop",
+              "Description": "OrderabelInWebshop",
+              "Value": "true"
+            },
+            {
+              "Code": "ItemType",
+              "Description": "ItemType",
+              "Value": "2"
+            },
+            {
+              "Code": "PalletItem",
+              "Description": "PalletItem",
+              "Value": "false"
+            },
+            {
+              "Code": "Lengte",
+              "Description": "Lengte",
+              "Value": "110 millimeter"
+            },
+            {
+              "Code": "DailyPrice",
+              "Description": "DailyPrice",
+              "Value": "false"
+            },
+            {
+              "Code": "CompBulkPrice",
+              "Description": "CompBulkPrice",
+              "Value": "0"
+            },
+            {
+              "Code": "Functionele naam",
+              "Description": "Functionele naam",
+              "Value": "Schuifaccu"
+            },
+            {
+              "Code": "CompPrice",
+              "Description": "CompPrice",
+              "Value": "0"
+            },
+            {
+              "Code": "NewAtBouwmaat",
+              "Description": "NewAtBouwmaat",
+              "Value": "false"
+            },
+            {
+              "Code": "Maximale (werk)lengte",
+              "Description": "Maximale (werk)lengte",
+              "Value": "110 millimeter"
+            },
+            {
+              "Code": "Gewicht",
+              "Description": "Gewicht",
+              "Value": "0,62 kg"
+            },
+            {
+              "Code": "LongTail",
+              "Description": "LongTail",
+              "Value": "false"
+            },
+            {
+              "Code": "Lengte uitgeschoven",
+              "Description": "Lengte uitgeschoven",
+              "Value": "110"
+            },
+            {
+              "Code": "Ranking",
+              "Description": "Ranking",
+              "Value": "5479"
+            },
+            {
+              "Code": "Variant",
+              "Description": "Variant",
+              "Value": "DCB184-XJ"
+            },
+            {
+              "Code": "Type",
+              "Description": "Type",
+              "Value": "DCB184-XJ"
+            },
+            {
+              "Code": "Netto inhoud",
+              "Description": "Netto inhoud",
+              "Value": "1 stuk"
+            },
+            {
+              "Code": "LabelEenheidGroot",
+              "Description": "LabelEenheidGroot",
+              "Value": "per stuk"
+            },
+            {
+              "Code": "LabelPrijsGroot",
+              "Description": "LabelPrijsGroot",
+              "Value": "90.00"
+            },
+            {
+              "Code": "IndicatorCompact",
+              "Description": "IndicatorCompact",
+              "Value": "false"
+            }
+          ],
+          "Images": [
+            {
+              "Id": 63902,
+              "RelatedId": 34839,
+              "Type": "Front",
+              "Url": "https://testimageretrieval.aspos.nl/Product/Front/150914/363fd5e9-d828-434f-a48b-8a6ec4153050.jpg"
+            }
+          ],
+          "Kits": [],
+          "PreferredProductSupplier": {
+            "Supplier": {
+              "Code": "BLD"
+            }
+          },
+          "StockInfo": [
+            {
+              "AvailableQuantity": 4.0,
+              "PhysicalStockQuantity": 4.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 4,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": -2.0,
+              "CustomerOrderQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 6,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "PurchaseOrderQuantity": 48.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 8,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 9,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 10.0,
+              "PhysicalStockQuantity": 10.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 10,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": -3.0,
+              "CustomerOrderQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 12,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 13,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 6.0,
+              "PhysicalStockQuantity": 6.0,
+              "MinimumStockQuantity": 1.0,
+              "MaximumStockQuantity": 2.0,
+              "StoreId": 16,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 5.0,
+              "PhysicalStockQuantity": 5.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 22,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 6.0,
+              "PhysicalStockQuantity": 6.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 24,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": -1.0,
+              "PhysicalStockQuantity": 1.0,
+              "CustomerOrderQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 29,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 6.0,
+              "PhysicalStockQuantity": 6.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 30,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 31,
+              "AllowSystemOverride": true
+            },
+            {
+              "PurchaseOrderQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 34,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 89.0,
+              "PhysicalStockQuantity": 89.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 35,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 36,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 38,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 39,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 40,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 41,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 47,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 48,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": -2.0,
+              "PhysicalStockQuantity": -2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 49,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 2.0,
+              "PhysicalStockQuantity": 2.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 51,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 1.0,
+              "PhysicalStockQuantity": 1.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 52,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 3.0,
+              "PhysicalStockQuantity": 3.0,
+              "MinimumStockQuantity": 0.0,
+              "MaximumStockQuantity": 0.0,
+              "StoreId": 55,
+              "AllowSystemOverride": true
+            },
+            {
+              "AvailableQuantity": 206.0,
+              "PhysicalStockQuantity": 206.0,
+              "StoreId": 58,
+              "AllowSystemOverride": true
+            }
+          ],
+          "ProductConnections": [
+            {
+              "Type": "Free",
+              "ProductId": 34839
+            },
+            {
+              "Type": "Free",
+              "ProductId": 34839
+            }
+          ]
+        },
+        "ProductUrl": "dewalt-schuifaccu-dcb184-xj-18-volt-0000601601",
+        "OnlyOnStockInExcludedStores": false,
+        "AsposDerived": false
+      }
+    ],
+    "TotalInclTax": 5658.35,
+    "TotalExclTax": 4676.32,
+    "DiscountAmountExclTax": 809.76,
+    "DiscountAmountInclTax": 979.82,
+    "PaymentMethod": "ideal",
+    "PaymentData": "{\"issuer\":\"ASNBNL21\"}",
+    "BonusPoints": 4676,
+    "NotEnoughStock": false,
+    "ShipmentMethod": {
+      "Id": "12",
+      "Date": "2022-07-04T16:00:00.000Z",
+      "Time": {
+        "From": "13:00",
+        "To": "18:00"
+      },
+      "Price": 0
+    },
+    "DeliveryAddress": {
+      "Gender": "Company",
+      "FirstName": "",
+      "Street": "Begijnekade",
+      "HouseNumber": "6",
+      "HouseNumberExtension": "",
+      "PostalCode": "3512 VT",
+      "City": "utrecht",
+      "CountryCode": "NL",
+      "PhoneNumber": "",
+      "EmailAddress": "testedward@test.nl",
+      "Memo": ""
+    },
+    "CustomCartFields": {
+      "PalletCostLines": [],
+      "PalletCostsExclTax": 0,
+      "PalletCostsInclTax": 0,
+      "PalletQuantity": 0,
+      "DeliveryCostsPreviewExclTax": 0,
+      "DeliveryCostsPreviewInclTax": 0,
+      "DeliveryCostsExclTax": 0,
+      "DeliveryCostsInclTax": 0,
+      "ProductExtraFields": {
+        "215515": {
+          "MoreLessLevels": [
+            {
+              "Id": 284709,
+              "DiscountId": 32648,
+              "Quantity": 24,
+              "DiscountPriceInclTax": 30.8308,
+              "DiscountPriceExclTax": 25.48,
+              "Type": "Keuze"
+            }
+          ]
+        },
+        "278988": {},
+        "34839": {}
+      },
+      "HasBakedGoods": false,
+      "ShouldShowBakedGoodsNotification": false,
+      "PointsToRedeem": 0,
+      "HasLargeProduct": false,
+      "LogisticsStoreIdDelivery": 12,
+      "LogisticsStoreIdPickup": 15,
+      "MaxOrderableQuantitiesDelivery": {
+        "215515": 0,
+        "278988": 0,
+        "34839": 0
+      },
+      "MaxOrderableQuantitiesPickup": {
+        "215515": 0,
+        "278988": 2,
+        "34839": 0
+      },
+      "PerLineShippingEstimates": {
+        "6": "twothreedays",
+        "8": "twothreedays",
+        "9": "twothreedays"
+      },
+      "DeliveryEstimate": "twothreedays",
+      "PickupEstimate": "twothreedays",
+      "ShippingEstimate": "twothreedays"
+    },
+    "Vouchers": [],
+    "Coupons": [],
+    "StandardDeliveryAvailable": true,
+    "RegionDeliveryAvailable": false,
+    "IsDeliveryOrder": true,
+    "TotalAmountOfProducts": 120,
+    "SubTotalInclTax": 5658.35,
+    "SubTotalExclTax": 4676.32,
+    "ShippingCostsInclTax": 0,
+    "ShippingCostsExclTax": 0,
+    "TaxAmount9": 0,
+    "TaxAmount21": 982.03,
+    "TaxAmount": 982.03
+  },
+  "Factors": {
+    "ProductStatus": {
+      "IsValid": false,
+      "InvalidProductIds": [215515]
+    },
+    "Stock": {
+      "IsValid": false,
+      "InvalidProductIds": [215515]
+    },
+    "DeliveryDate": {
+      "NextDate": "2022-06-25T00:00:00.0000000",
+      "IsValid": false
+    }
+  }
+}
